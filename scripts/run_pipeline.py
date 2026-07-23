@@ -253,8 +253,14 @@ def _start_server(cfg: DictConfig) -> subprocess.Popen:
             setattr(sglang_cfg, k, v)
 
     cmd = [sys.executable, "-m", "sglang.launch_server", *sglang_cfg.to_cli_args()]
+    print(cmd)
     logger.info("Starting sglang server...")
-    proc = subprocess.Popen(cmd)
+    proc = subprocess.Popen(
+        cmd,
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+        text=True,
+    )
 
     port = cfg.sglang.port
     timeout = int(cfg.server.get("wait_timeout", 900))
@@ -262,6 +268,7 @@ def _start_server(cfg: DictConfig) -> subprocess.Popen:
 
     for i in range(1, timeout + 1):
         if proc.poll() is not None:
+            print(proc.stdout.read())
             raise RuntimeError("sglang server process died during startup")
         for url in urls:
             try:
