@@ -1018,6 +1018,3 @@
 [2026-07-21 23:32:09,977][__main__][INFO] -   TOTAL            6054.1s  (100.9 min)
 [2026-07-21 23:32:09,978][__main__][INFO] - Summary saved to ./experiments/pipeline-runs/local-1784676729.json
 [2026-07-21 23:32:09,978][__main__][INFO] - Pipeline complete for ['scifact']
-(base) whysoseriousoni@DESKTOP-EJRRH98:~/git-repo/sira$  conda activate sira312
-(sira312) whysoseriousoni@DESKTOP-EJRRH98:~/git-repo/sira$ 107090810709081070908^C
-(sira312) whysoseriousoni@DESKTOP-EJRRH98:~/git-repo/sira$ 
