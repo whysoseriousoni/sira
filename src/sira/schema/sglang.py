@@ -12,19 +12,22 @@ class SGLangServerConfig:
     Each field maps 1:1 to an ``sglang.launch_server`` CLI flag.
     Hardware-specific YAML profiles live under ``scripts/configs/sglang/``.
     """
+    
+    # model: str = "Qwen/Qwen3.6-35B-A3B-FP8" # 50GB
+    model: str = "Qwen/Qwen3-0.6B"
+    model_path: str = "Qwen/Qwen3-0.6B"
 
-    model: str = "Qwen/Qwen3.6-35B-A3B-FP8"
     port: int = 30000
     host: str = "0.0.0.0"
 
     # Parallelism — tp × dp must equal the number of GPUs to use.
-    tp: int = 2
-    dp: int = 0  # 0 = auto (num_gpus // tp)
+    tp: int = 1 # 1 GPU
+    dp: int = 1  # 0 = auto (num_gpus // tp)
 
     # Memory & KV cache
     mem: float = 0.88
-    context_length: int = 65536
-    kv_cache_dtype: str = "fp8_e4m3"
+    context_length: int = 32768
+    kv_cache_dtype: str = "auto"
 
     # Batching & scheduling
     max_running_requests: int = 512
@@ -43,11 +46,18 @@ class SGLangServerConfig:
 
     # Startup
     skip_server_warmup: bool = True
+    auto_start: bool = True
     trust_remote_code: bool = True
     log_level: str = "info"
 
     # Background mode (tmux)
     background: bool = False
+
+    # Data selection
+    data: str = "scifact"
+
+    load_format = "auto"
+    quantization = None
 
     def to_cli_args(self) -> list[str]:
         """Convert to ``sglang.launch_server`` CLI argument list."""

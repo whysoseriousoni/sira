@@ -1,0 +1,1020 @@
+[2026-07-21 21:57:25,849][add_doc_index_adapter][WARNING] - LLM error for 32587939: Timeout on reading data from socket
+[2026-07-21 21:57:25,850][add_doc_index_adapter][WARNING] - LLM error for 32598644: Timeout on reading data from socket
+[2026-07-21 21:57:25,850][add_doc_index_adapter][WARNING] - LLM error for 32611468: Timeout on reading data from socket
+[2026-07-21 21:57:25,850][add_doc_index_adapter][WARNING] - LLM error for 32638085: Timeout on reading data from socket
+[2026-07-21 21:57:25,851][add_doc_index_adapter][WARNING] - LLM error for 32665136: Timeout on reading data from socket
+[2026-07-21 21:57:25,851][add_doc_index_adapter][WARNING] - LLM error for 32671519: Timeout on reading data from socket
+[2026-07-21 21:57:25,851][add_doc_index_adapter][WARNING] - LLM error for 32697244: Timeout on reading data from socket
+[2026-07-21 21:57:25,851][add_doc_index_adapter][WARNING] - LLM error for 32712381: Timeout on reading data from socket
+[2026-07-21 21:57:25,852][add_doc_index_adapter][WARNING] - LLM error for 32720933: Timeout on reading data from socket
+[2026-07-21 21:57:25,852][add_doc_index_adapter][WARNING] - LLM error for 32721137: Timeout on reading data from socket
+[2026-07-21 21:57:25,852][add_doc_index_adapter][WARNING] - LLM error for 32742683: Timeout on reading data from socket
+[2026-07-21 21:57:25,853][add_doc_index_adapter][WARNING] - LLM error for 32743723: Timeout on reading data from socket
+[2026-07-21 21:57:25,853][add_doc_index_adapter][WARNING] - LLM error for 32766786: Timeout on reading data from socket
+[2026-07-21 21:57:25,854][add_doc_index_adapter][WARNING] - LLM error for 32770503: Timeout on reading data from socket
+[2026-07-21 21:57:25,854][add_doc_index_adapter][WARNING] - LLM error for 32776084: Timeout on reading data from socket
+[2026-07-21 21:57:25,854][add_doc_index_adapter][WARNING] - LLM error for 32777637: Timeout on reading data from socket
+[2026-07-21 21:57:25,855][add_doc_index_adapter][WARNING] - LLM error for 32787042: Timeout on reading data from socket
+[2026-07-21 21:57:25,855][add_doc_index_adapter][WARNING] - LLM error for 32797183: Timeout on reading data from socket
+[2026-07-21 21:57:25,855][add_doc_index_adapter][WARNING] - LLM error for 32827351: Timeout on reading data from socket
+[2026-07-21 21:57:25,856][add_doc_index_adapter][WARNING] - LLM error for 32850528: Timeout on reading data from socket
+[2026-07-21 21:57:25,856][add_doc_index_adapter][WARNING] - LLM error for 32852283: Timeout on reading data from socket
+[2026-07-21 21:57:25,856][add_doc_index_adapter][WARNING] - LLM error for 32906513: Timeout on reading data from socket
+[2026-07-21 21:57:25,856][add_doc_index_adapter][WARNING] - LLM error for 32909242: Timeout on reading data from socket
+[2026-07-21 21:57:25,857][add_doc_index_adapter][WARNING] - LLM error for 32922179: Timeout on reading data from socket
+[2026-07-21 21:57:25,857][add_doc_index_adapter][WARNING] - LLM error for 32927401: Timeout on reading data from socket
+[2026-07-21 21:57:25,857][add_doc_index_adapter][WARNING] - LLM error for 32927475: Timeout on reading data from socket
+[2026-07-21 21:57:25,857][add_doc_index_adapter][WARNING] - LLM error for 32955023: Timeout on reading data from socket
+[2026-07-21 21:57:25,858][add_doc_index_adapter][WARNING] - LLM error for 32969964: Timeout on reading data from socket
+[2026-07-21 21:57:25,858][add_doc_index_adapter][WARNING] - LLM error for 32975424: Timeout on reading data from socket
+[2026-07-21 21:57:25,858][add_doc_index_adapter][WARNING] - LLM error for 32985041: Timeout on reading data from socket
+[2026-07-21 21:57:25,858][add_doc_index_adapter][WARNING] - LLM error for 33030946: Timeout on reading data from socket
+[2026-07-21 21:57:25,859][add_doc_index_adapter][WARNING] - LLM error for 33036897: Timeout on reading data from socket
+[2026-07-21 21:57:25,859][add_doc_index_adapter][WARNING] - LLM error for 33063763: Timeout on reading data from socket
+[2026-07-21 21:57:25,859][add_doc_index_adapter][WARNING] - LLM error for 33068577: Timeout on reading data from socket
+[2026-07-21 21:57:25,860][add_doc_index_adapter][WARNING] - LLM error for 33076846: Timeout on reading data from socket
+[2026-07-21 21:57:25,860][add_doc_index_adapter][WARNING] - LLM error for 33118292: Timeout on reading data from socket
+[2026-07-21 21:57:25,860][add_doc_index_adapter][WARNING] - LLM error for 33127778: Timeout on reading data from socket
+[2026-07-21 21:57:25,860][add_doc_index_adapter][WARNING] - LLM error for 33135135: Timeout on reading data from socket
+[2026-07-21 21:57:25,861][add_doc_index_adapter][WARNING] - LLM error for 33169058: Timeout on reading data from socket
+[2026-07-21 21:57:25,861][add_doc_index_adapter][WARNING] - LLM error for 33203108: Timeout on reading data from socket
+[2026-07-21 21:57:25,861][add_doc_index_adapter][WARNING] - LLM error for 33257464: Timeout on reading data from socket
+[2026-07-21 21:57:25,861][add_doc_index_adapter][WARNING] - LLM error for 33339202: Timeout on reading data from socket
+[2026-07-21 21:57:25,862][add_doc_index_adapter][WARNING] - LLM error for 33387953: Timeout on reading data from socket
+[2026-07-21 21:57:25,862][add_doc_index_adapter][WARNING] - LLM error for 33390472: Timeout on reading data from socket
+[2026-07-21 21:57:25,862][add_doc_index_adapter][WARNING] - LLM error for 33397197: Timeout on reading data from socket
+[2026-07-21 21:57:25,863][add_doc_index_adapter][WARNING] - LLM error for 33409100: Timeout on reading data from socket
+[2026-07-21 21:57:25,864][add_doc_index_adapter][WARNING] - LLM error for 33417012: Timeout on reading data from socket
+[2026-07-21 21:57:25,864][add_doc_index_adapter][WARNING] - LLM error for 33458992: Timeout on reading data from socket
+[2026-07-21 21:57:25,864][add_doc_index_adapter][WARNING] - LLM error for 33499189: Timeout on reading data from socket
+[2026-07-21 21:57:25,864][add_doc_index_adapter][WARNING] - LLM error for 33507866: Timeout on reading data from socket
+[2026-07-21 21:57:25,865][add_doc_index_adapter][WARNING] - LLM error for 33533307: Timeout on reading data from socket
+[2026-07-21 21:57:25,865][add_doc_index_adapter][WARNING] - LLM error for 33535222: Timeout on reading data from socket
+[2026-07-21 21:57:25,865][add_doc_index_adapter][WARNING] - LLM error for 33535447: Timeout on reading data from socket
+[2026-07-21 21:57:25,865][add_doc_index_adapter][WARNING] - LLM error for 33554389: Timeout on reading data from socket
+[2026-07-21 21:57:25,866][add_doc_index_adapter][WARNING] - LLM error for 33569870: Timeout on reading data from socket
+[2026-07-21 21:57:25,866][add_doc_index_adapter][WARNING] - LLM error for 33634749: Timeout on reading data from socket
+[2026-07-21 21:57:25,866][add_doc_index_adapter][WARNING] - LLM error for 33638477: Timeout on reading data from socket
+[2026-07-21 21:57:25,867][add_doc_index_adapter][WARNING] - LLM error for 33667484: Timeout on reading data from socket
+[2026-07-21 21:57:25,867][add_doc_index_adapter][WARNING] - LLM error for 33669399: Timeout on reading data from socket
+[2026-07-21 21:57:25,867][add_doc_index_adapter][WARNING] - LLM error for 33677323: Timeout on reading data from socket
+[2026-07-21 21:57:25,867][add_doc_index_adapter][WARNING] - LLM error for 33684572: Timeout on reading data from socket
+[2026-07-21 21:57:25,868][add_doc_index_adapter][WARNING] - LLM error for 33720691: Timeout on reading data from socket
+[2026-07-21 21:57:25,868][add_doc_index_adapter][WARNING] - LLM error for 33723822: Timeout on reading data from socket
+[2026-07-21 21:57:25,868][add_doc_index_adapter][WARNING] - LLM error for 33733520: Timeout on reading data from socket
+[2026-07-21 21:57:25,869][add_doc_index_adapter][WARNING] - LLM error for 33740844: Timeout on reading data from socket
+[2026-07-21 21:57:25,869][add_doc_index_adapter][WARNING] - LLM error for 33792330: Timeout on reading data from socket
+[2026-07-21 21:57:25,869][add_doc_index_adapter][WARNING] - LLM error for 33796570: Timeout on reading data from socket
+[2026-07-21 21:57:25,869][add_doc_index_adapter][WARNING] - LLM error for 33835579: Timeout on reading data from socket
+[2026-07-21 21:57:25,870][add_doc_index_adapter][WARNING] - LLM error for 33872649: Timeout on reading data from socket
+[2026-07-21 21:57:25,870][add_doc_index_adapter][WARNING] - LLM error for 33884866: Timeout on reading data from socket
+[2026-07-21 21:57:25,870][add_doc_index_adapter][WARNING] - LLM error for 33904473: Timeout on reading data from socket
+[2026-07-21 21:57:25,871][add_doc_index_adapter][WARNING] - LLM error for 33904789: Timeout on reading data from socket
+[2026-07-21 21:57:25,871][add_doc_index_adapter][WARNING] - LLM error for 33911859: Timeout on reading data from socket
+[2026-07-21 21:57:25,871][add_doc_index_adapter][WARNING] - LLM error for 33912020: Timeout on reading data from socket
+[2026-07-21 21:57:25,872][add_doc_index_adapter][WARNING] - LLM error for 33912748: Timeout on reading data from socket
+[2026-07-21 21:57:25,872][add_doc_index_adapter][WARNING] - LLM error for 33918970: Timeout on reading data from socket
+[2026-07-21 21:57:25,873][add_doc_index_adapter][WARNING] - LLM error for 33920995: Timeout on reading data from socket
+[2026-07-21 21:57:25,873][add_doc_index_adapter][WARNING] - LLM error for 33934971: Timeout on reading data from socket
+[2026-07-21 21:57:25,873][add_doc_index_adapter][WARNING] - LLM error for 33955641: Timeout on reading data from socket
+[2026-07-21 21:57:25,874][add_doc_index_adapter][WARNING] - LLM error for 33960383: Timeout on reading data from socket
+[2026-07-21 21:57:25,874][add_doc_index_adapter][WARNING] - LLM error for 33986200: Timeout on reading data from socket
+[2026-07-21 21:57:25,874][add_doc_index_adapter][WARNING] - LLM error for 33986507: Timeout on reading data from socket
+[2026-07-21 21:57:25,874][add_doc_index_adapter][WARNING] - LLM error for 33989422: Timeout on reading data from socket
+[2026-07-21 21:57:25,875][add_doc_index_adapter][WARNING] - LLM error for 34016944: Timeout on reading data from socket
+[2026-07-21 21:57:25,875][add_doc_index_adapter][WARNING] - LLM error for 34016987: Timeout on reading data from socket
+[2026-07-21 21:57:25,876][add_doc_index_adapter][WARNING] - LLM error for 34025053: Timeout on reading data from socket
+[2026-07-21 21:57:25,876][add_doc_index_adapter][WARNING] - LLM error for 34034749: Timeout on reading data from socket
+[2026-07-21 21:57:25,876][add_doc_index_adapter][WARNING] - LLM error for 34054472: Timeout on reading data from socket
+[2026-07-21 21:57:25,877][add_doc_index_adapter][WARNING] - LLM error for 34066665: Timeout on reading data from socket
+[2026-07-21 21:57:25,877][add_doc_index_adapter][WARNING] - LLM error for 34071621: Timeout on reading data from socket
+[2026-07-21 21:57:25,877][add_doc_index_adapter][WARNING] - LLM error for 34074902: Timeout on reading data from socket
+[2026-07-21 21:57:25,881][add_doc_index_adapter][WARNING] - LLM error for 34101101: Timeout on reading data from socket
+[2026-07-21 21:57:25,881][add_doc_index_adapter][WARNING] - LLM error for 34103335: Timeout on reading data from socket
+[2026-07-21 21:57:25,882][add_doc_index_adapter][WARNING] - LLM error for 34105878: Timeout on reading data from socket
+[2026-07-21 21:57:25,882][add_doc_index_adapter][WARNING] - LLM error for 34121231: Timeout on reading data from socket
+[2026-07-21 21:57:25,882][add_doc_index_adapter][WARNING] - LLM error for 34139429: Timeout on reading data from socket
+[2026-07-21 21:57:25,882][add_doc_index_adapter][WARNING] - LLM error for 34189936: Timeout on reading data from socket
+[2026-07-21 21:57:25,890][add_doc_index_adapter][WARNING] - LLM error for 34198365: Timeout on reading data from socket
+[2026-07-21 21:57:25,890][add_doc_index_adapter][WARNING] - LLM error for 34198460: Timeout on reading data from socket
+[2026-07-21 21:57:25,891][add_doc_index_adapter][WARNING] - LLM error for 34208005: Timeout on reading data from socket
+[2026-07-21 21:57:25,891][add_doc_index_adapter][WARNING] - LLM error for 34227917: Timeout on reading data from socket
+[2026-07-21 21:57:25,891][add_doc_index_adapter][WARNING] - LLM error for 34228604: Timeout on reading data from socket
+[2026-07-21 21:57:25,894][add_doc_index_adapter][WARNING] - LLM error for 34254203: Timeout on reading data from socket
+[2026-07-21 21:57:25,894][add_doc_index_adapter][WARNING] - LLM error for 34258065: Timeout on reading data from socket
+[2026-07-21 21:57:25,895][add_doc_index_adapter][WARNING] - LLM error for 34268160: Timeout on reading data from socket
+[2026-07-21 21:57:25,895][add_doc_index_adapter][WARNING] - LLM error for 34287602: Timeout on reading data from socket
+[2026-07-21 21:57:25,895][add_doc_index_adapter][WARNING] - LLM error for 34316341: Timeout on reading data from socket
+[2026-07-21 21:57:25,897][add_doc_index_adapter][WARNING] - LLM error for 34328964: Timeout on reading data from socket
+[2026-07-21 21:57:25,897][add_doc_index_adapter][WARNING] - LLM error for 34338075: Timeout on reading data from socket
+[2026-07-21 21:57:25,897][add_doc_index_adapter][WARNING] - LLM error for 34369306: Timeout on reading data from socket
+[2026-07-21 21:57:25,898][add_doc_index_adapter][WARNING] - LLM error for 34378726: Timeout on reading data from socket
+[2026-07-21 21:57:25,898][add_doc_index_adapter][WARNING] - LLM error for 34386619: Timeout on reading data from socket
+[2026-07-21 21:57:25,898][add_doc_index_adapter][WARNING] - LLM error for 34436231: Timeout on reading data from socket
+[2026-07-21 21:57:25,899][add_doc_index_adapter][WARNING] - LLM error for 34439544: Timeout on reading data from socket
+[2026-07-21 21:57:25,899][add_doc_index_adapter][WARNING] - LLM error for 34445160: Timeout on reading data from socket
+[2026-07-21 21:57:25,899][add_doc_index_adapter][WARNING] - LLM error for 34469966: Timeout on reading data from socket
+[2026-07-21 21:57:25,899][add_doc_index_adapter][WARNING] - LLM error for 34481589: Timeout on reading data from socket
+[2026-07-21 21:57:25,900][add_doc_index_adapter][WARNING] - LLM error for 34498093: Timeout on reading data from socket
+[2026-07-21 21:57:25,900][add_doc_index_adapter][WARNING] - LLM error for 34498325: Timeout on reading data from socket
+[2026-07-21 21:57:25,900][add_doc_index_adapter][WARNING] - LLM error for 34537906: Timeout on reading data from socket
+[2026-07-21 21:57:25,901][add_doc_index_adapter][WARNING] - LLM error for 34544514: Timeout on reading data from socket
+[2026-07-21 21:57:25,901][add_doc_index_adapter][WARNING] - LLM error for 34559336: Timeout on reading data from socket
+[2026-07-21 21:57:25,901][add_doc_index_adapter][WARNING] - LLM error for 34582256: Timeout on reading data from socket
+[2026-07-21 21:57:25,902][add_doc_index_adapter][WARNING] - LLM error for 34603465: Timeout on reading data from socket
+[2026-07-21 21:57:25,902][add_doc_index_adapter][WARNING] - LLM error for 34604584: Timeout on reading data from socket
+[2026-07-21 21:57:25,902][add_doc_index_adapter][WARNING] - LLM error for 34615397: Timeout on reading data from socket
+[2026-07-21 21:57:25,903][add_doc_index_adapter][WARNING] - LLM error for 34630025: Timeout on reading data from socket
+[2026-07-21 21:57:25,903][add_doc_index_adapter][WARNING] - LLM error for 34733465: Timeout on reading data from socket
+[2026-07-21 21:57:25,903][add_doc_index_adapter][WARNING] - LLM error for 34735369: Timeout on reading data from socket
+[2026-07-21 21:57:25,903][add_doc_index_adapter][WARNING] - LLM error for 34747208: Timeout on reading data from socket
+[2026-07-21 21:57:25,904][add_doc_index_adapter][WARNING] - LLM error for 34753204: Timeout on reading data from socket
+[2026-07-21 21:57:25,904][add_doc_index_adapter][WARNING] - LLM error for 34760396: Timeout on reading data from socket
+[2026-07-21 21:57:25,904][add_doc_index_adapter][WARNING] - LLM error for 34818263: Timeout on reading data from socket
+[2026-07-21 21:57:25,905][add_doc_index_adapter][WARNING] - LLM error for 34846352: Timeout on reading data from socket
+[2026-07-21 21:57:25,905][add_doc_index_adapter][WARNING] - LLM error for 34854444: Timeout on reading data from socket
+[2026-07-21 21:57:25,905][add_doc_index_adapter][WARNING] - LLM error for 34873974: Timeout on reading data from socket
+[2026-07-21 21:57:25,906][add_doc_index_adapter][WARNING] - LLM error for 34876410: Timeout on reading data from socket
+[2026-07-21 21:57:25,906][add_doc_index_adapter][WARNING] - LLM error for 34905328: Timeout on reading data from socket
+[2026-07-21 21:57:25,906][add_doc_index_adapter][WARNING] - LLM error for 34935825: Timeout on reading data from socket
+[2026-07-21 21:57:25,907][add_doc_index_adapter][WARNING] - LLM error for 34982259: Timeout on reading data from socket
+[2026-07-21 21:57:25,907][add_doc_index_adapter][WARNING] - LLM error for 35004872: Timeout on reading data from socket
+[2026-07-21 21:57:25,907][add_doc_index_adapter][WARNING] - LLM error for 35008773: Timeout on reading data from socket
+[2026-07-21 21:57:25,908][add_doc_index_adapter][WARNING] - LLM error for 35022568: Timeout on reading data from socket
+[2026-07-21 21:57:25,908][add_doc_index_adapter][WARNING] - LLM error for 35062452: Timeout on reading data from socket
+[2026-07-21 21:57:25,909][add_doc_index_adapter][WARNING] - LLM error for 35079452: Timeout on reading data from socket
+[2026-07-21 21:57:25,916][add_doc_index_adapter][WARNING] - LLM error for 35085326: Timeout on reading data from socket
+[2026-07-21 21:57:25,916][add_doc_index_adapter][WARNING] - LLM error for 35087728: Timeout on reading data from socket
+[2026-07-21 21:57:25,917][add_doc_index_adapter][WARNING] - LLM error for 35100235: Timeout on reading data from socket
+[2026-07-21 21:57:25,917][add_doc_index_adapter][WARNING] - LLM error for 35149431: Timeout on reading data from socket
+[2026-07-21 21:57:25,917][add_doc_index_adapter][WARNING] - LLM error for 35186640: Timeout on reading data from socket
+[2026-07-21 21:57:25,917][add_doc_index_adapter][WARNING] - LLM error for 35231675: Timeout on reading data from socket
+[2026-07-21 21:57:25,918][add_doc_index_adapter][WARNING] - LLM error for 35256900: Timeout on reading data from socket
+[2026-07-21 21:57:25,922][add_doc_index_adapter][WARNING] - LLM error for 35271381: Timeout on reading data from socket
+[2026-07-21 21:57:25,923][add_doc_index_adapter][WARNING] - LLM error for 35301079: Timeout on reading data from socket
+[2026-07-21 21:57:25,923][add_doc_index_adapter][WARNING] - LLM error for 35314705: Timeout on reading data from socket
+[2026-07-21 21:57:25,924][add_doc_index_adapter][WARNING] - LLM error for 35321950: Timeout on reading data from socket
+[2026-07-21 21:57:25,924][add_doc_index_adapter][WARNING] - LLM error for 35329820: Timeout on reading data from socket
+[2026-07-21 21:57:25,924][add_doc_index_adapter][WARNING] - LLM error for 35345807: Timeout on reading data from socket
+[2026-07-21 21:57:25,925][add_doc_index_adapter][WARNING] - LLM error for 35395662: Timeout on reading data from socket
+[2026-07-21 21:57:25,925][add_doc_index_adapter][WARNING] - LLM error for 35443524: Timeout on reading data from socket
+[2026-07-21 21:57:25,927][add_doc_index_adapter][WARNING] - LLM error for 35448676: Timeout on reading data from socket
+[2026-07-21 21:57:25,933][add_doc_index_adapter][WARNING] - LLM error for 35467590: Timeout on reading data from socket
+[2026-07-21 21:57:25,933][add_doc_index_adapter][WARNING] - LLM error for 35495268: Timeout on reading data from socket
+[2026-07-21 21:57:25,934][add_doc_index_adapter][WARNING] - LLM error for 35520219: Timeout on reading data from socket
+[2026-07-21 21:57:25,934][add_doc_index_adapter][WARNING] - LLM error for 35521287: Timeout on reading data from socket
+[2026-07-21 21:57:25,934][add_doc_index_adapter][WARNING] - LLM error for 35531883: Timeout on reading data from socket
+[2026-07-21 21:57:25,934][add_doc_index_adapter][WARNING] - LLM error for 35534019: Timeout on reading data from socket
+[2026-07-21 21:57:25,935][add_doc_index_adapter][WARNING] - LLM error for 35543846: Timeout on reading data from socket
+[2026-07-21 21:57:25,935][add_doc_index_adapter][WARNING] - LLM error for 35612665: Timeout on reading data from socket
+[2026-07-21 21:57:25,935][add_doc_index_adapter][WARNING] - LLM error for 35621259: Timeout on reading data from socket
+[2026-07-21 21:57:25,936][add_doc_index_adapter][WARNING] - LLM error for 35651106: Timeout on reading data from socket
+[2026-07-21 21:57:25,936][add_doc_index_adapter][WARNING] - LLM error for 35660758: Timeout on reading data from socket
+[2026-07-21 21:57:25,936][add_doc_index_adapter][WARNING] - LLM error for 35684881: Timeout on reading data from socket
+[2026-07-21 21:57:25,937][add_doc_index_adapter][WARNING] - LLM error for 35711485: Timeout on reading data from socket
+[2026-07-21 21:57:25,940][add_doc_index_adapter][WARNING] - LLM error for 35714909: Timeout on reading data from socket
+[2026-07-21 21:57:25,940][add_doc_index_adapter][WARNING] - LLM error for 35724562: Timeout on reading data from socket
+[2026-07-21 21:57:25,941][add_doc_index_adapter][WARNING] - LLM error for 35747505: Timeout on reading data from socket
+[2026-07-21 21:57:25,941][add_doc_index_adapter][WARNING] - LLM error for 35760786: Timeout on reading data from socket
+[2026-07-21 21:57:25,941][add_doc_index_adapter][WARNING] - LLM error for 35764259: Timeout on reading data from socket
+[2026-07-21 21:57:25,944][add_doc_index_adapter][WARNING] - LLM error for 35766603: Timeout on reading data from socket
+[2026-07-21 21:57:25,945][add_doc_index_adapter][WARNING] - LLM error for 35768199: Timeout on reading data from socket
+[2026-07-21 21:57:25,946][add_doc_index_adapter][WARNING] - LLM error for 35777860: Timeout on reading data from socket
+[2026-07-21 21:57:25,946][add_doc_index_adapter][WARNING] - LLM error for 35811036: Timeout on reading data from socket
+[2026-07-21 21:57:25,946][add_doc_index_adapter][WARNING] - LLM error for 35828148: Timeout on reading data from socket
+[2026-07-21 21:57:25,951][add_doc_index_adapter][WARNING] - LLM error for 35861290: Timeout on reading data from socket
+[2026-07-21 21:57:25,953][add_doc_index_adapter][WARNING] - LLM error for 35884026: Timeout on reading data from socket
+[2026-07-21 21:57:25,953][add_doc_index_adapter][WARNING] - LLM error for 35962023: Timeout on reading data from socket
+[2026-07-21 21:57:25,953][add_doc_index_adapter][WARNING] - LLM error for 35987381: Timeout on reading data from socket
+[2026-07-21 21:57:25,954][add_doc_index_adapter][WARNING] - LLM error for 35993767: Timeout on reading data from socket
+[2026-07-21 21:57:25,954][add_doc_index_adapter][WARNING] - LLM error for 36003142: Timeout on reading data from socket
+[2026-07-21 21:57:25,954][add_doc_index_adapter][WARNING] - LLM error for 36025357: Timeout on reading data from socket
+[2026-07-21 21:57:25,955][add_doc_index_adapter][WARNING] - LLM error for 36033696: Timeout on reading data from socket
+[2026-07-21 21:57:25,955][add_doc_index_adapter][WARNING] - LLM error for 36066871: Timeout on reading data from socket
+[2026-07-21 21:57:25,955][add_doc_index_adapter][WARNING] - LLM error for 36082224: Timeout on reading data from socket
+[2026-07-21 21:57:25,955][add_doc_index_adapter][WARNING] - LLM error for 36089763: Timeout on reading data from socket
+[2026-07-21 21:57:25,956][add_doc_index_adapter][WARNING] - LLM error for 36111909: Timeout on reading data from socket
+[2026-07-21 21:57:25,957][add_doc_index_adapter][WARNING] - LLM error for 36124058: Timeout on reading data from socket
+[2026-07-21 21:57:25,957][add_doc_index_adapter][WARNING] - LLM error for 36178047: Timeout on reading data from socket
+[2026-07-21 21:57:25,957][add_doc_index_adapter][WARNING] - LLM error for 36180468: Timeout on reading data from socket
+[2026-07-21 21:57:25,958][add_doc_index_adapter][WARNING] - LLM error for 36202354: Timeout on reading data from socket
+[2026-07-21 21:57:25,958][add_doc_index_adapter][WARNING] - LLM error for 36211049: Timeout on reading data from socket
+[2026-07-21 21:57:25,958][add_doc_index_adapter][WARNING] - LLM error for 36212758: Timeout on reading data from socket
+[2026-07-21 21:57:25,959][add_doc_index_adapter][WARNING] - LLM error for 36216395: Timeout on reading data from socket
+[2026-07-21 21:57:25,959][add_doc_index_adapter][WARNING] - LLM error for 36233757: Timeout on reading data from socket
+[2026-07-21 21:57:25,960][add_doc_index_adapter][WARNING] - LLM error for 36242796: Timeout on reading data from socket
+[2026-07-21 21:57:25,960][add_doc_index_adapter][WARNING] - LLM error for 36271512: Timeout on reading data from socket
+[2026-07-21 21:57:25,960][add_doc_index_adapter][WARNING] - LLM error for 36288526: Timeout on reading data from socket
+[2026-07-21 21:57:25,960][add_doc_index_adapter][WARNING] - LLM error for 36310858: Timeout on reading data from socket
+[2026-07-21 21:57:25,961][add_doc_index_adapter][WARNING] - LLM error for 36345185: Timeout on reading data from socket
+[2026-07-21 21:57:25,961][add_doc_index_adapter][WARNING] - LLM error for 36345578: Timeout on reading data from socket
+[2026-07-21 21:57:25,961][add_doc_index_adapter][WARNING] - LLM error for 36355784: Timeout on reading data from socket
+[2026-07-21 21:57:25,962][add_doc_index_adapter][WARNING] - LLM error for 36357627: Timeout on reading data from socket
+[2026-07-21 21:57:25,962][add_doc_index_adapter][WARNING] - LLM error for 36386637: Timeout on reading data from socket
+[2026-07-21 21:57:25,962][add_doc_index_adapter][WARNING] - LLM error for 36398420: Timeout on reading data from socket
+[2026-07-21 21:57:25,963][add_doc_index_adapter][WARNING] - LLM error for 36399107: Timeout on reading data from socket
+[2026-07-21 21:57:25,963][add_doc_index_adapter][WARNING] - LLM error for 36399109: Timeout on reading data from socket
+[2026-07-21 21:57:25,963][add_doc_index_adapter][WARNING] - LLM error for 36432234: Timeout on reading data from socket
+[2026-07-21 21:57:25,963][add_doc_index_adapter][WARNING] - LLM error for 36444198: Timeout on reading data from socket
+[2026-07-21 21:57:25,964][add_doc_index_adapter][WARNING] - LLM error for 36450001: Timeout on reading data from socket
+[2026-07-21 21:57:25,964][add_doc_index_adapter][WARNING] - LLM error for 36464673: Timeout on reading data from socket
+[2026-07-21 21:57:25,964][add_doc_index_adapter][WARNING] - LLM error for 36480032: Timeout on reading data from socket
+[2026-07-21 21:57:26,020][add_doc_index_adapter][WARNING] - LLM error for 36497180: Timeout on reading data from socket
+[2026-07-21 21:57:26,021][add_doc_index_adapter][WARNING] - LLM error for 36540079: Timeout on reading data from socket
+[2026-07-21 21:57:26,021][add_doc_index_adapter][WARNING] - LLM error for 36547290: Timeout on reading data from socket
+[2026-07-21 21:57:26,041][add_doc_index_adapter][WARNING] - LLM error for 36558211: Timeout on reading data from socket
+[2026-07-21 21:57:26,044][add_doc_index_adapter][WARNING] - LLM error for 36606083: Timeout on reading data from socket
+[2026-07-21 21:57:26,045][add_doc_index_adapter][WARNING] - LLM error for 36618603: Timeout on reading data from socket
+[2026-07-21 21:57:26,045][add_doc_index_adapter][WARNING] - LLM error for 36623997: Timeout on reading data from socket
+[2026-07-21 21:57:26,046][add_doc_index_adapter][WARNING] - LLM error for 36637129: Timeout on reading data from socket
+[2026-07-21 21:57:26,046][add_doc_index_adapter][WARNING] - LLM error for 36642096: Timeout on reading data from socket
+[2026-07-21 21:57:26,046][add_doc_index_adapter][WARNING] - LLM error for 36651210: Timeout on reading data from socket
+[2026-07-21 21:57:26,046][add_doc_index_adapter][WARNING] - LLM error for 36653415: Timeout on reading data from socket
+[2026-07-21 21:57:26,055][add_doc_index_adapter][WARNING] - LLM error for 36654066: Timeout on reading data from socket
+[2026-07-21 21:57:26,056][add_doc_index_adapter][WARNING] - LLM error for 36708463: Timeout on reading data from socket
+[2026-07-21 21:57:26,056][add_doc_index_adapter][WARNING] - LLM error for 36713289: Timeout on reading data from socket
+[2026-07-21 21:57:26,060][add_doc_index_adapter][WARNING] - LLM error for 36721932: Timeout on reading data from socket
+[2026-07-21 21:57:26,061][add_doc_index_adapter][WARNING] - LLM error for 36749390: Timeout on reading data from socket
+[2026-07-21 21:57:26,062][add_doc_index_adapter][WARNING] - LLM error for 36799998: Timeout on reading data from socket
+[2026-07-21 21:57:26,062][add_doc_index_adapter][WARNING] - LLM error for 36816310: Timeout on reading data from socket
+[2026-07-21 21:57:26,062][add_doc_index_adapter][WARNING] - LLM error for 36830715: Timeout on reading data from socket
+[2026-07-21 21:57:26,063][add_doc_index_adapter][WARNING] - LLM error for 36831892: Timeout on reading data from socket
+[2026-07-21 21:57:26,063][add_doc_index_adapter][WARNING] - LLM error for 36838958: Timeout on reading data from socket
+[2026-07-21 21:57:26,063][add_doc_index_adapter][WARNING] - LLM error for 36855703: Timeout on reading data from socket
+[2026-07-21 21:57:26,064][add_doc_index_adapter][WARNING] - LLM error for 36860856: Timeout on reading data from socket
+[2026-07-21 21:57:26,068][add_doc_index_adapter][WARNING] - LLM error for 36889513: Timeout on reading data from socket
+[2026-07-21 21:57:26,068][add_doc_index_adapter][WARNING] - LLM error for 36904081: Timeout on reading data from socket
+[2026-07-21 21:57:26,068][add_doc_index_adapter][WARNING] - LLM error for 36921186: Timeout on reading data from socket
+[2026-07-21 21:57:26,068][add_doc_index_adapter][WARNING] - LLM error for 36950726: Timeout on reading data from socket
+[2026-07-21 21:57:26,069][add_doc_index_adapter][WARNING] - LLM error for 36960449: Timeout on reading data from socket
+[2026-07-21 21:57:26,069][add_doc_index_adapter][WARNING] - LLM error for 36962270: Timeout on reading data from socket
+[2026-07-21 21:57:26,069][add_doc_index_adapter][WARNING] - LLM error for 36991551: Timeout on reading data from socket
+[2026-07-21 21:57:26,070][add_doc_index_adapter][WARNING] - LLM error for 37029185: Timeout on reading data from socket
+[2026-07-21 21:57:26,070][add_doc_index_adapter][WARNING] - LLM error for 37037012: Timeout on reading data from socket
+[2026-07-21 21:57:26,070][add_doc_index_adapter][WARNING] - LLM error for 37065914: Timeout on reading data from socket
+[2026-07-21 21:57:26,071][add_doc_index_adapter][WARNING] - LLM error for 37118634: Timeout on reading data from socket
+[2026-07-21 21:57:26,071][add_doc_index_adapter][WARNING] - LLM error for 37138639: Timeout on reading data from socket
+[2026-07-21 21:57:26,071][add_doc_index_adapter][WARNING] - LLM error for 37156349: Timeout on reading data from socket
+[2026-07-21 21:57:26,072][add_doc_index_adapter][WARNING] - LLM error for 37164306: Timeout on reading data from socket
+[2026-07-21 21:57:26,072][add_doc_index_adapter][WARNING] - LLM error for 37182501: Timeout on reading data from socket
+[2026-07-21 21:57:26,072][add_doc_index_adapter][WARNING] - LLM error for 37204802: Timeout on reading data from socket
+[2026-07-21 21:57:26,073][add_doc_index_adapter][WARNING] - LLM error for 37205685: Timeout on reading data from socket
+[2026-07-21 21:57:26,073][add_doc_index_adapter][WARNING] - LLM error for 37205759: Timeout on reading data from socket
+[2026-07-21 21:57:26,074][add_doc_index_adapter][WARNING] - LLM error for 37207226: Timeout on reading data from socket
+[2026-07-21 21:57:26,074][add_doc_index_adapter][WARNING] - LLM error for 37248570: Timeout on reading data from socket
+[2026-07-21 21:57:26,075][add_doc_index_adapter][WARNING] - LLM error for 37248765: Timeout on reading data from socket
+[2026-07-21 21:57:26,075][add_doc_index_adapter][WARNING] - LLM error for 37249641: Timeout on reading data from socket
+[2026-07-21 21:57:26,075][add_doc_index_adapter][WARNING] - LLM error for 37256966: Timeout on reading data from socket
+[2026-07-21 21:57:26,075][add_doc_index_adapter][WARNING] - LLM error for 37269418: Timeout on reading data from socket
+[2026-07-21 21:57:26,076][add_doc_index_adapter][WARNING] - LLM error for 37296667: Timeout on reading data from socket
+[2026-07-21 21:57:26,076][add_doc_index_adapter][WARNING] - LLM error for 37297740: Timeout on reading data from socket
+[2026-07-21 21:57:26,076][add_doc_index_adapter][WARNING] - LLM error for 37311371: Timeout on reading data from socket
+[2026-07-21 21:57:26,077][add_doc_index_adapter][WARNING] - LLM error for 37328025: Timeout on reading data from socket
+[2026-07-21 21:57:26,077][add_doc_index_adapter][WARNING] - LLM error for 37336085: Timeout on reading data from socket
+[2026-07-21 21:57:26,077][add_doc_index_adapter][WARNING] - LLM error for 37362689: Timeout on reading data from socket
+[2026-07-21 21:57:26,077][add_doc_index_adapter][WARNING] - LLM error for 37405449: Timeout on reading data from socket
+[2026-07-21 21:57:26,078][add_doc_index_adapter][WARNING] - LLM error for 37424881: Timeout on reading data from socket
+[2026-07-21 21:57:26,078][add_doc_index_adapter][WARNING] - LLM error for 37437064: Timeout on reading data from socket
+[2026-07-21 21:57:26,107][add_doc_index_adapter][WARNING] - LLM error for 37438296: Timeout on reading data from socket
+[2026-07-21 21:57:26,108][add_doc_index_adapter][WARNING] - LLM error for 37444589: Timeout on reading data from socket
+[2026-07-21 21:57:26,108][add_doc_index_adapter][WARNING] - LLM error for 37450671: Timeout on reading data from socket
+[2026-07-21 21:57:26,108][add_doc_index_adapter][WARNING] - LLM error for 37480103: Timeout on reading data from socket
+[2026-07-21 21:57:26,109][add_doc_index_adapter][WARNING] - LLM error for 37488367: Timeout on reading data from socket
+[2026-07-21 21:57:26,109][add_doc_index_adapter][WARNING] - LLM error for 37549932: Timeout on reading data from socket
+[2026-07-21 21:57:26,129][add_doc_index_adapter][WARNING] - LLM error for 37562370: Timeout on reading data from socket
+[2026-07-21 21:57:26,129][add_doc_index_adapter][WARNING] - LLM error for 37578311: Timeout on reading data from socket
+[2026-07-21 21:57:26,129][add_doc_index_adapter][WARNING] - LLM error for 37583120: Timeout on reading data from socket
+[2026-07-21 21:57:26,130][add_doc_index_adapter][WARNING] - LLM error for 37592824: Timeout on reading data from socket
+[2026-07-21 21:57:26,130][add_doc_index_adapter][WARNING] - LLM error for 37608303: Timeout on reading data from socket
+[2026-07-21 21:57:26,130][add_doc_index_adapter][WARNING] - LLM error for 37619697: Timeout on reading data from socket
+[2026-07-21 21:57:26,131][add_doc_index_adapter][WARNING] - LLM error for 37628989: Timeout on reading data from socket
+[2026-07-21 21:57:26,131][add_doc_index_adapter][WARNING] - LLM error for 37641175: Timeout on reading data from socket
+[2026-07-21 21:57:26,131][add_doc_index_adapter][WARNING] - LLM error for 37643601: Timeout on reading data from socket
+[2026-07-21 21:57:26,131][add_doc_index_adapter][WARNING] - LLM error for 37673301: Timeout on reading data from socket
+[2026-07-21 21:57:26,132][add_doc_index_adapter][WARNING] - LLM error for 37677954: Timeout on reading data from socket
+[2026-07-21 21:57:26,132][add_doc_index_adapter][WARNING] - LLM error for 37686718: Timeout on reading data from socket
+[2026-07-21 21:57:26,132][add_doc_index_adapter][WARNING] - LLM error for 37699461: Timeout on reading data from socket
+[2026-07-21 21:57:26,144][add_doc_index_adapter][WARNING] - LLM error for 37722384: Timeout on reading data from socket
+[2026-07-21 21:57:26,144][add_doc_index_adapter][WARNING] - LLM error for 37727521: Timeout on reading data from socket
+[2026-07-21 21:57:26,145][add_doc_index_adapter][WARNING] - LLM error for 37731372: Timeout on reading data from socket
+[2026-07-21 21:57:26,145][add_doc_index_adapter][WARNING] - LLM error for 37762357: Timeout on reading data from socket
+[2026-07-21 21:57:26,145][add_doc_index_adapter][WARNING] - LLM error for 37768883: Timeout on reading data from socket
+[2026-07-21 21:57:26,146][add_doc_index_adapter][WARNING] - LLM error for 37822406: Timeout on reading data from socket
+[2026-07-21 21:57:26,146][add_doc_index_adapter][WARNING] - LLM error for 37895688: Timeout on reading data from socket
+[2026-07-21 21:57:26,146][add_doc_index_adapter][WARNING] - LLM error for 37912677: Timeout on reading data from socket
+[2026-07-21 21:57:26,147][add_doc_index_adapter][WARNING] - LLM error for 37916361: Timeout on reading data from socket
+[2026-07-21 21:57:26,147][add_doc_index_adapter][WARNING] - LLM error for 37949139: Timeout on reading data from socket
+[2026-07-21 21:57:26,147][add_doc_index_adapter][WARNING] - LLM error for 37964706: Timeout on reading data from socket
+[2026-07-21 21:57:26,147][add_doc_index_adapter][WARNING] - LLM error for 37969403: Timeout on reading data from socket
+[2026-07-21 21:57:26,148][add_doc_index_adapter][WARNING] - LLM error for 38009906: Timeout on reading data from socket
+[2026-07-21 21:57:26,169][add_doc_index_adapter][WARNING] - LLM error for 38023457: Timeout on reading data from socket
+[2026-07-21 21:57:26,170][add_doc_index_adapter][WARNING] - LLM error for 38025907: Timeout on reading data from socket
+[2026-07-21 21:57:26,170][add_doc_index_adapter][WARNING] - LLM error for 38028419: Timeout on reading data from socket
+[2026-07-21 21:57:26,170][add_doc_index_adapter][WARNING] - LLM error for 38037690: Timeout on reading data from socket
+[2026-07-21 21:57:26,171][add_doc_index_adapter][WARNING] - LLM error for 38040186: Timeout on reading data from socket
+[2026-07-21 21:57:26,171][add_doc_index_adapter][WARNING] - LLM error for 38043606: Timeout on reading data from socket
+[2026-07-21 21:57:26,226][add_doc_index_adapter][WARNING] - LLM error for 38076716: Timeout on reading data from socket
+[2026-07-21 21:57:26,226][add_doc_index_adapter][WARNING] - LLM error for 38127792: Timeout on reading data from socket
+[2026-07-21 21:57:26,227][add_doc_index_adapter][WARNING] - LLM error for 38131471: Timeout on reading data from socket
+[2026-07-21 21:57:26,227][add_doc_index_adapter][WARNING] - LLM error for 38143689: Timeout on reading data from socket
+[2026-07-21 21:57:26,228][add_doc_index_adapter][WARNING] - LLM error for 38180456: Timeout on reading data from socket
+[2026-07-21 21:57:26,228][add_doc_index_adapter][WARNING] - LLM error for 38211681: Timeout on reading data from socket
+[2026-07-21 21:57:26,228][add_doc_index_adapter][WARNING] - LLM error for 38243984: Timeout on reading data from socket
+[2026-07-21 21:57:26,229][add_doc_index_adapter][WARNING] - LLM error for 38252314: Timeout on reading data from socket
+[2026-07-21 21:57:26,229][add_doc_index_adapter][WARNING] - LLM error for 38296571: Timeout on reading data from socket
+[2026-07-21 21:57:26,232][add_doc_index_adapter][WARNING] - LLM error for 38300781: Timeout on reading data from socket
+[2026-07-21 21:57:26,233][add_doc_index_adapter][WARNING] - LLM error for 38355793: Timeout on reading data from socket
+[2026-07-21 21:57:26,233][add_doc_index_adapter][WARNING] - LLM error for 38369817: Timeout on reading data from socket
+[2026-07-21 21:57:26,233][add_doc_index_adapter][WARNING] - LLM error for 38376189: Timeout on reading data from socket
+[2026-07-21 21:57:26,234][add_doc_index_adapter][WARNING] - LLM error for 38380061: Timeout on reading data from socket
+[2026-07-21 21:57:26,236][add_doc_index_adapter][WARNING] - LLM error for 38401028: Timeout on reading data from socket
+[2026-07-21 21:57:26,237][add_doc_index_adapter][WARNING] - LLM error for 38410121: Timeout on reading data from socket
+[2026-07-21 21:57:26,239][add_doc_index_adapter][WARNING] - LLM error for 38477436: Timeout on reading data from socket
+[2026-07-21 21:57:26,240][add_doc_index_adapter][WARNING] - LLM error for 38485364: Timeout on reading data from socket
+[2026-07-21 21:57:26,242][add_doc_index_adapter][WARNING] - LLM error for 38493521: Timeout on reading data from socket
+[2026-07-21 21:57:26,243][add_doc_index_adapter][WARNING] - LLM error for 38502066: Timeout on reading data from socket
+[2026-07-21 21:57:26,243][add_doc_index_adapter][WARNING] - LLM error for 38528892: Timeout on reading data from socket
+[2026-07-21 21:57:26,246][add_doc_index_adapter][WARNING] - LLM error for 38533515: Timeout on reading data from socket
+[2026-07-21 21:57:26,247][add_doc_index_adapter][WARNING] - LLM error for 38551172: Timeout on reading data from socket
+[2026-07-21 21:57:26,247][add_doc_index_adapter][WARNING] - LLM error for 38587347: Timeout on reading data from socket
+[2026-07-21 21:57:26,247][add_doc_index_adapter][WARNING] - LLM error for 38623601: Timeout on reading data from socket
+[2026-07-21 21:57:26,248][add_doc_index_adapter][WARNING] - LLM error for 38630735: Timeout on reading data from socket
+[2026-07-21 21:57:26,248][add_doc_index_adapter][WARNING] - LLM error for 38664102: Timeout on reading data from socket
+[2026-07-21 21:57:26,248][add_doc_index_adapter][WARNING] - LLM error for 38675228: Timeout on reading data from socket
+[2026-07-21 21:57:26,250][add_doc_index_adapter][WARNING] - LLM error for 38712515: Timeout on reading data from socket
+[2026-07-21 21:57:26,250][add_doc_index_adapter][WARNING] - LLM error for 38727075: Timeout on reading data from socket
+[2026-07-21 21:57:26,251][add_doc_index_adapter][WARNING] - LLM error for 38735355: Timeout on reading data from socket
+[2026-07-21 21:57:26,251][add_doc_index_adapter][WARNING] - LLM error for 38745690: Timeout on reading data from socket
+[2026-07-21 21:57:26,251][add_doc_index_adapter][WARNING] - LLM error for 38747567: Timeout on reading data from socket
+[2026-07-21 21:57:26,252][add_doc_index_adapter][WARNING] - LLM error for 38751591: Timeout on reading data from socket
+[2026-07-21 21:57:26,252][add_doc_index_adapter][WARNING] - LLM error for 38752049: Timeout on reading data from socket
+[2026-07-21 21:57:26,252][add_doc_index_adapter][WARNING] - LLM error for 38784540: Timeout on reading data from socket
+[2026-07-21 21:57:26,253][add_doc_index_adapter][WARNING] - LLM error for 38793927: Timeout on reading data from socket
+[2026-07-21 21:57:26,253][add_doc_index_adapter][WARNING] - LLM error for 38794814: Timeout on reading data from socket
+[2026-07-21 21:57:26,253][add_doc_index_adapter][WARNING] - LLM error for 38799797: Timeout on reading data from socket
+[2026-07-21 21:57:26,254][add_doc_index_adapter][WARNING] - LLM error for 38805486: Timeout on reading data from socket
+[2026-07-21 21:57:26,254][add_doc_index_adapter][WARNING] - LLM error for 38808600: Timeout on reading data from socket
+[2026-07-21 21:57:26,254][add_doc_index_adapter][WARNING] - LLM error for 38811597: Timeout on reading data from socket
+[2026-07-21 21:57:26,254][add_doc_index_adapter][WARNING] - LLM error for 38830961: Timeout on reading data from socket
+[2026-07-21 21:57:26,255][add_doc_index_adapter][WARNING] - LLM error for 38844612: Timeout on reading data from socket
+[2026-07-21 21:57:26,255][add_doc_index_adapter][WARNING] - LLM error for 38873881: Timeout on reading data from socket
+[2026-07-21 21:57:26,256][add_doc_index_adapter][WARNING] - LLM error for 38882175: Timeout on reading data from socket
+[2026-07-21 21:57:26,256][add_doc_index_adapter][WARNING] - LLM error for 38886345: Timeout on reading data from socket
+[2026-07-21 21:57:26,256][add_doc_index_adapter][WARNING] - LLM error for 38899659: Timeout on reading data from socket
+[2026-07-21 21:57:26,256][add_doc_index_adapter][WARNING] - LLM error for 38919140: Timeout on reading data from socket
+[2026-07-21 21:57:26,257][add_doc_index_adapter][WARNING] - LLM error for 38944245: Timeout on reading data from socket
+[2026-07-21 21:57:26,257][add_doc_index_adapter][WARNING] - LLM error for 39048693: Timeout on reading data from socket
+[2026-07-21 21:57:26,314][add_doc_index_adapter][WARNING] - LLM error for 39059143: Timeout on reading data from socket
+[2026-07-21 21:57:26,314][add_doc_index_adapter][WARNING] - LLM error for 39084565: Timeout on reading data from socket
+[2026-07-21 21:57:26,315][add_doc_index_adapter][WARNING] - LLM error for 39128592: Timeout on reading data from socket
+[2026-07-21 21:57:26,315][add_doc_index_adapter][WARNING] - LLM error for 39164524: Timeout on reading data from socket
+[2026-07-21 21:57:26,315][add_doc_index_adapter][WARNING] - LLM error for 39174007: Timeout on reading data from socket
+[2026-07-21 21:57:26,316][add_doc_index_adapter][WARNING] - LLM error for 39187170: Timeout on reading data from socket
+[2026-07-21 21:57:26,316][add_doc_index_adapter][WARNING] - LLM error for 39225849: Timeout on reading data from socket
+[2026-07-21 21:57:26,317][add_doc_index_adapter][WARNING] - LLM error for 39264456: Timeout on reading data from socket
+[2026-07-21 21:57:26,318][add_doc_index_adapter][WARNING] - LLM error for 39281140: Timeout on reading data from socket
+[2026-07-21 21:57:26,318][add_doc_index_adapter][WARNING] - LLM error for 39281166: Timeout on reading data from socket
+[2026-07-21 21:57:26,318][add_doc_index_adapter][WARNING] - LLM error for 39285547: Timeout on reading data from socket
+[2026-07-21 21:57:26,318][add_doc_index_adapter][WARNING] - LLM error for 39291138: Timeout on reading data from socket
+[2026-07-21 21:57:26,319][add_doc_index_adapter][WARNING] - LLM error for 39300105: Timeout on reading data from socket
+[2026-07-21 21:57:26,319][add_doc_index_adapter][WARNING] - LLM error for 39304380: Timeout on reading data from socket
+[2026-07-21 21:57:26,319][add_doc_index_adapter][WARNING] - LLM error for 39326723: Timeout on reading data from socket
+[2026-07-21 21:57:26,446][add_doc_index_adapter][WARNING] - LLM error for 39334724: Timeout on reading data from socket
+[2026-07-21 21:57:26,446][add_doc_index_adapter][WARNING] - LLM error for 39368721: Timeout on reading data from socket
+[2026-07-21 21:57:26,447][add_doc_index_adapter][WARNING] - LLM error for 39381118: Timeout on reading data from socket
+[2026-07-21 21:57:26,447][add_doc_index_adapter][WARNING] - LLM error for 39389082: Timeout on reading data from socket
+[2026-07-21 21:57:26,447][add_doc_index_adapter][WARNING] - LLM error for 39390206: Timeout on reading data from socket
+[2026-07-21 21:57:26,448][add_doc_index_adapter][WARNING] - LLM error for 39391953: Timeout on reading data from socket
+[2026-07-21 21:57:26,453][add_doc_index_adapter][WARNING] - LLM error for 39424916: Timeout on reading data from socket
+[2026-07-21 21:57:26,453][add_doc_index_adapter][WARNING] - LLM error for 39426225: Timeout on reading data from socket
+[2026-07-21 21:57:26,453][add_doc_index_adapter][WARNING] - LLM error for 39443128: Timeout on reading data from socket
+[2026-07-21 21:57:26,453][add_doc_index_adapter][WARNING] - LLM error for 39462488: Timeout on reading data from socket
+[2026-07-21 21:57:26,454][add_doc_index_adapter][WARNING] - LLM error for 39465575: Timeout on reading data from socket
+[2026-07-21 21:57:26,454][add_doc_index_adapter][WARNING] - LLM error for 39481265: Timeout on reading data from socket
+[2026-07-21 21:57:26,455][add_doc_index_adapter][WARNING] - LLM error for 39506601: Timeout on reading data from socket
+[2026-07-21 21:57:26,455][add_doc_index_adapter][WARNING] - LLM error for 39532074: Timeout on reading data from socket
+[2026-07-21 21:57:26,455][add_doc_index_adapter][WARNING] - LLM error for 39539647: Timeout on reading data from socket
+[2026-07-21 21:57:26,473][add_doc_index_adapter][WARNING] - LLM error for 39545358: Timeout on reading data from socket
+[2026-07-21 21:57:26,473][add_doc_index_adapter][WARNING] - LLM error for 39550665: Timeout on reading data from socket
+[2026-07-21 21:57:26,474][add_doc_index_adapter][WARNING] - LLM error for 39558597: Timeout on reading data from socket
+[2026-07-21 21:57:26,474][add_doc_index_adapter][WARNING] - LLM error for 39559521: Timeout on reading data from socket
+[2026-07-21 21:57:26,475][add_doc_index_adapter][WARNING] - LLM error for 39571812: Timeout on reading data from socket
+[2026-07-21 21:57:26,475][add_doc_index_adapter][WARNING] - LLM error for 39580129: Timeout on reading data from socket
+[2026-07-21 21:57:26,475][add_doc_index_adapter][WARNING] - LLM error for 39593548: Timeout on reading data from socket
+[2026-07-21 21:57:26,475][add_doc_index_adapter][WARNING] - LLM error for 39637840: Timeout on reading data from socket
+[2026-07-21 21:57:26,476][add_doc_index_adapter][WARNING] - LLM error for 39652608: Timeout on reading data from socket
+[2026-07-21 21:57:26,478][add_doc_index_adapter][WARNING] - LLM error for 39661951: Timeout on reading data from socket
+[2026-07-21 21:57:26,481][add_doc_index_adapter][WARNING] - LLM error for 39668245: Timeout on reading data from socket
+[2026-07-21 21:57:26,481][add_doc_index_adapter][WARNING] - LLM error for 39728826: Timeout on reading data from socket
+[2026-07-21 21:57:26,481][add_doc_index_adapter][WARNING] - LLM error for 39729277: Timeout on reading data from socket
+[2026-07-21 21:57:26,482][add_doc_index_adapter][WARNING] - LLM error for 39758684: Timeout on reading data from socket
+[2026-07-21 21:57:26,482][add_doc_index_adapter][WARNING] - LLM error for 39763465: Timeout on reading data from socket
+[2026-07-21 21:57:26,482][add_doc_index_adapter][WARNING] - LLM error for 39776978: Timeout on reading data from socket
+[2026-07-21 21:57:26,482][add_doc_index_adapter][WARNING] - LLM error for 39801095: Timeout on reading data from socket
+[2026-07-21 21:57:26,483][add_doc_index_adapter][WARNING] - LLM error for 39851630: Timeout on reading data from socket
+[2026-07-21 21:57:26,483][add_doc_index_adapter][WARNING] - LLM error for 39859981: Timeout on reading data from socket
+[2026-07-21 21:57:26,483][add_doc_index_adapter][WARNING] - LLM error for 39863735: Timeout on reading data from socket
+[2026-07-21 21:57:26,484][add_doc_index_adapter][WARNING] - LLM error for 39892135: Timeout on reading data from socket
+[2026-07-21 21:57:26,484][add_doc_index_adapter][WARNING] - LLM error for 39903312: Timeout on reading data from socket
+[2026-07-21 21:57:26,484][add_doc_index_adapter][WARNING] - LLM error for 39929509: Timeout on reading data from socket
+[2026-07-21 21:57:26,504][add_doc_index_adapter][WARNING] - LLM error for 39970500: Timeout on reading data from socket
+[2026-07-21 21:57:26,505][add_doc_index_adapter][WARNING] - LLM error for 39984099: Timeout on reading data from socket
+[2026-07-21 21:57:26,505][add_doc_index_adapter][WARNING] - LLM error for 39985001: Timeout on reading data from socket
+[2026-07-21 21:57:26,506][add_doc_index_adapter][WARNING] - LLM error for 40005757: Timeout on reading data from socket
+[2026-07-21 21:57:26,506][add_doc_index_adapter][WARNING] - LLM error for 40044800: Timeout on reading data from socket
+[2026-07-21 21:57:26,507][add_doc_index_adapter][WARNING] - LLM error for 40078758: Timeout on reading data from socket
+[2026-07-21 21:57:26,507][add_doc_index_adapter][WARNING] - LLM error for 40087494: Timeout on reading data from socket
+[2026-07-21 21:57:26,507][add_doc_index_adapter][WARNING] - LLM error for 40090058: Timeout on reading data from socket
+[2026-07-21 21:57:26,508][add_doc_index_adapter][WARNING] - LLM error for 40094786: Timeout on reading data from socket
+[2026-07-21 21:57:26,508][add_doc_index_adapter][WARNING] - LLM error for 40096222: Timeout on reading data from socket
+[2026-07-21 21:57:26,508][add_doc_index_adapter][WARNING] - LLM error for 40127292: Timeout on reading data from socket
+[2026-07-21 21:57:26,509][add_doc_index_adapter][WARNING] - LLM error for 40145839: Timeout on reading data from socket
+[2026-07-21 21:57:26,509][add_doc_index_adapter][WARNING] - LLM error for 40156901: Timeout on reading data from socket
+[2026-07-21 21:57:26,510][add_doc_index_adapter][WARNING] - LLM error for 40164383: Timeout on reading data from socket
+[2026-07-21 21:57:26,510][add_doc_index_adapter][WARNING] - LLM error for 40212412: Timeout on reading data from socket
+[2026-07-21 21:57:26,510][add_doc_index_adapter][WARNING] - LLM error for 40232172: Timeout on reading data from socket
+[2026-07-21 21:57:26,510][add_doc_index_adapter][WARNING] - LLM error for 40234452: Timeout on reading data from socket
+[2026-07-21 21:57:26,511][add_doc_index_adapter][WARNING] - LLM error for 40254495: Timeout on reading data from socket
+[2026-07-21 21:57:26,512][add_doc_index_adapter][WARNING] - LLM error for 40312663: Timeout on reading data from socket
+[2026-07-21 21:57:26,513][add_doc_index_adapter][WARNING] - LLM error for 40323148: Timeout on reading data from socket
+[2026-07-21 21:57:26,513][add_doc_index_adapter][WARNING] - LLM error for 40323454: Timeout on reading data from socket
+[2026-07-21 21:57:26,513][add_doc_index_adapter][WARNING] - LLM error for 40343416: Timeout on reading data from socket
+[2026-07-21 21:57:26,513][add_doc_index_adapter][WARNING] - LLM error for 40349336: Timeout on reading data from socket
+[2026-07-21 21:57:26,514][add_doc_index_adapter][WARNING] - LLM error for 40365566: Timeout on reading data from socket
+[2026-07-21 21:57:26,514][add_doc_index_adapter][WARNING] - LLM error for 40367499: Timeout on reading data from socket
+[2026-07-21 21:57:26,515][add_doc_index_adapter][WARNING] - LLM error for 40382183: Timeout on reading data from socket
+[2026-07-21 21:57:26,515][add_doc_index_adapter][WARNING] - LLM error for 40383969: Timeout on reading data from socket
+[2026-07-21 21:57:26,515][add_doc_index_adapter][WARNING] - LLM error for 40412980: Timeout on reading data from socket
+[2026-07-21 21:57:26,515][add_doc_index_adapter][WARNING] - LLM error for 40429879: Timeout on reading data from socket
+[2026-07-21 21:57:26,516][add_doc_index_adapter][WARNING] - LLM error for 40447899: Timeout on reading data from socket
+[2026-07-21 21:57:26,516][add_doc_index_adapter][WARNING] - LLM error for 40473317: Timeout on reading data from socket
+[2026-07-21 21:57:26,516][add_doc_index_adapter][WARNING] - LLM error for 40476126: Timeout on reading data from socket
+[2026-07-21 21:57:26,516][add_doc_index_adapter][WARNING] - LLM error for 40500438: Timeout on reading data from socket
+[2026-07-21 21:57:26,517][add_doc_index_adapter][WARNING] - LLM error for 40500723: Timeout on reading data from socket
+[2026-07-21 21:57:26,517][add_doc_index_adapter][WARNING] - LLM error for 40558887: Timeout on reading data from socket
+[2026-07-21 21:57:26,518][add_doc_index_adapter][WARNING] - LLM error for 40584205: Timeout on reading data from socket
+[2026-07-21 21:57:26,518][add_doc_index_adapter][WARNING] - LLM error for 40590358: Timeout on reading data from socket
+[2026-07-21 21:57:26,518][add_doc_index_adapter][WARNING] - LLM error for 40608679: Timeout on reading data from socket
+[2026-07-21 21:57:26,519][add_doc_index_adapter][WARNING] - LLM error for 40631095: Timeout on reading data from socket
+[2026-07-21 21:57:26,519][add_doc_index_adapter][WARNING] - LLM error for 40632104: Timeout on reading data from socket
+[2026-07-21 21:57:26,520][add_doc_index_adapter][WARNING] - LLM error for 40655970: Timeout on reading data from socket
+[2026-07-21 21:57:26,526][add_doc_index_adapter][WARNING] - LLM error for 40666943: Timeout on reading data from socket
+[2026-07-21 21:57:26,527][add_doc_index_adapter][WARNING] - LLM error for 40667066: Timeout on reading data from socket
+[2026-07-21 21:57:26,527][add_doc_index_adapter][WARNING] - LLM error for 40667577: Timeout on reading data from socket
+[2026-07-21 21:57:26,527][add_doc_index_adapter][WARNING] - LLM error for 40710501: Timeout on reading data from socket
+[2026-07-21 21:57:26,528][add_doc_index_adapter][WARNING] - LLM error for 40721190: Timeout on reading data from socket
+[2026-07-21 21:57:26,530][add_doc_index_adapter][WARNING] - LLM error for 40735046: Timeout on reading data from socket
+[2026-07-21 21:57:26,532][add_doc_index_adapter][WARNING] - LLM error for 40754510: Timeout on reading data from socket
+[2026-07-21 21:57:26,532][add_doc_index_adapter][WARNING] - LLM error for 40760684: Timeout on reading data from socket
+[2026-07-21 21:57:26,532][add_doc_index_adapter][WARNING] - LLM error for 40769868: Timeout on reading data from socket
+[2026-07-21 21:57:26,533][add_doc_index_adapter][WARNING] - LLM error for 40781557: Timeout on reading data from socket
+[2026-07-21 21:57:26,533][add_doc_index_adapter][WARNING] - LLM error for 40790033: Timeout on reading data from socket
+[2026-07-21 21:57:26,533][add_doc_index_adapter][WARNING] - LLM error for 40817021: Timeout on reading data from socket
+[2026-07-21 21:57:26,538][add_doc_index_adapter][WARNING] - LLM error for 40867854: Timeout on reading data from socket
+[2026-07-21 21:57:26,538][add_doc_index_adapter][WARNING] - LLM error for 40900242: Timeout on reading data from socket
+[2026-07-21 21:57:26,539][add_doc_index_adapter][WARNING] - LLM error for 40900567: Timeout on reading data from socket
+[2026-07-21 21:57:26,539][add_doc_index_adapter][WARNING] - LLM error for 40901687: Timeout on reading data from socket
+[2026-07-21 21:57:26,540][add_doc_index_adapter][WARNING] - LLM error for 40905302: Timeout on reading data from socket
+[2026-07-21 21:57:26,540][add_doc_index_adapter][WARNING] - LLM error for 40913091: Timeout on reading data from socket
+[2026-07-21 21:57:26,541][add_doc_index_adapter][WARNING] - LLM error for 40935722: Timeout on reading data from socket
+[2026-07-21 21:57:26,541][add_doc_index_adapter][WARNING] - LLM error for 40949706: Timeout on reading data from socket
+[2026-07-21 21:57:26,544][add_doc_index_adapter][WARNING] - LLM error for 40963697: Timeout on reading data from socket
+[2026-07-21 21:57:26,544][add_doc_index_adapter][WARNING] - LLM error for 40971746: Timeout on reading data from socket
+[2026-07-21 21:57:26,545][add_doc_index_adapter][WARNING] - LLM error for 40987633: Timeout on reading data from socket
+[2026-07-21 21:57:26,546][add_doc_index_adapter][WARNING] - LLM error for 40996863: Timeout on reading data from socket
+[2026-07-21 21:57:26,547][add_doc_index_adapter][WARNING] - LLM error for 41022628: Timeout on reading data from socket
+[2026-07-21 21:57:26,547][add_doc_index_adapter][WARNING] - LLM error for 41024260: Timeout on reading data from socket
+[2026-07-21 21:57:26,547][add_doc_index_adapter][WARNING] - LLM error for 41074251: Timeout on reading data from socket
+[2026-07-21 21:57:26,548][add_doc_index_adapter][WARNING] - LLM error for 41087952: Timeout on reading data from socket
+[2026-07-21 21:57:26,548][add_doc_index_adapter][WARNING] - LLM error for 41120293: Timeout on reading data from socket
+[2026-07-21 21:57:26,548][add_doc_index_adapter][WARNING] - LLM error for 41131087: Timeout on reading data from socket
+[2026-07-21 21:57:26,549][add_doc_index_adapter][WARNING] - LLM error for 41133176: Timeout on reading data from socket
+[2026-07-21 21:57:26,549][add_doc_index_adapter][WARNING] - LLM error for 41159361: Timeout on reading data from socket
+[2026-07-21 21:57:26,560][add_doc_index_adapter][WARNING] - LLM error for 41161366: Timeout on reading data from socket
+[2026-07-21 21:57:26,561][add_doc_index_adapter][WARNING] - LLM error for 41165286: Timeout on reading data from socket
+[2026-07-21 21:57:26,561][add_doc_index_adapter][WARNING] - LLM error for 41182002: Timeout on reading data from socket
+[2026-07-21 21:57:26,561][add_doc_index_adapter][WARNING] - LLM error for 41226276: Timeout on reading data from socket
+[2026-07-21 21:57:26,562][add_doc_index_adapter][WARNING] - LLM error for 41233511: Timeout on reading data from socket
+[2026-07-21 21:57:26,562][add_doc_index_adapter][WARNING] - LLM error for 41239107: Timeout on reading data from socket
+[2026-07-21 21:57:26,563][add_doc_index_adapter][WARNING] - LLM error for 41256402: Timeout on reading data from socket
+[2026-07-21 21:57:26,563][add_doc_index_adapter][WARNING] - LLM error for 41264017: Timeout on reading data from socket
+[2026-07-21 21:57:26,563][add_doc_index_adapter][WARNING] - LLM error for 41293601: Timeout on reading data from socket
+[2026-07-21 21:57:26,564][add_doc_index_adapter][WARNING] - LLM error for 41294031: Timeout on reading data from socket
+[2026-07-21 21:57:26,564][add_doc_index_adapter][WARNING] - LLM error for 41298619: Timeout on reading data from socket
+[2026-07-21 21:57:26,564][add_doc_index_adapter][WARNING] - LLM error for 41310252: Timeout on reading data from socket
+[2026-07-21 21:57:26,565][add_doc_index_adapter][WARNING] - LLM error for 41314611: Timeout on reading data from socket
+[2026-07-21 21:57:26,565][add_doc_index_adapter][WARNING] - LLM error for 41325555: Timeout on reading data from socket
+[2026-07-21 21:57:26,566][add_doc_index_adapter][WARNING] - LLM error for 41329220: Timeout on reading data from socket
+[2026-07-21 21:57:26,566][add_doc_index_adapter][WARNING] - LLM error for 41329906: Timeout on reading data from socket
+[2026-07-21 21:57:26,567][add_doc_index_adapter][WARNING] - LLM error for 41337677: Timeout on reading data from socket
+[2026-07-21 21:57:26,567][add_doc_index_adapter][WARNING] - LLM error for 41340212: Timeout on reading data from socket
+[2026-07-21 21:57:26,568][add_doc_index_adapter][WARNING] - LLM error for 41354899: Timeout on reading data from socket
+[2026-07-21 21:57:26,568][add_doc_index_adapter][WARNING] - LLM error for 41380943: Timeout on reading data from socket
+[2026-07-21 21:57:26,569][add_doc_index_adapter][WARNING] - LLM error for 41403996: Timeout on reading data from socket
+[2026-07-21 21:57:26,569][add_doc_index_adapter][WARNING] - LLM error for 41493639: Timeout on reading data from socket
+[2026-07-21 21:57:26,569][add_doc_index_adapter][WARNING] - LLM error for 41496215: Timeout on reading data from socket
+[2026-07-21 21:57:26,570][add_doc_index_adapter][WARNING] - LLM error for 41548287: Timeout on reading data from socket
+[2026-07-21 21:57:26,570][add_doc_index_adapter][WARNING] - LLM error for 41599676: Timeout on reading data from socket
+[2026-07-21 21:57:26,570][add_doc_index_adapter][WARNING] - LLM error for 41620295: Timeout on reading data from socket
+[2026-07-21 21:57:26,570][add_doc_index_adapter][WARNING] - LLM error for 41644178: Timeout on reading data from socket
+[2026-07-21 21:57:26,571][add_doc_index_adapter][WARNING] - LLM error for 41646286: Timeout on reading data from socket
+[2026-07-21 21:57:26,571][add_doc_index_adapter][WARNING] - LLM error for 41650417: Timeout on reading data from socket
+[2026-07-21 21:57:26,572][add_doc_index_adapter][WARNING] - LLM error for 41707539: Timeout on reading data from socket
+[2026-07-21 21:57:26,572][add_doc_index_adapter][WARNING] - LLM error for 41710132: Timeout on reading data from socket
+[2026-07-21 21:57:26,573][add_doc_index_adapter][WARNING] - LLM error for 41735503: Timeout on reading data from socket
+[2026-07-21 21:57:26,573][add_doc_index_adapter][WARNING] - LLM error for 41774099: Timeout on reading data from socket
+[2026-07-21 21:57:26,573][add_doc_index_adapter][WARNING] - LLM error for 41781905: Timeout on reading data from socket
+[2026-07-21 21:57:26,574][add_doc_index_adapter][WARNING] - LLM error for 41782935: Timeout on reading data from socket
+[2026-07-21 21:57:26,574][add_doc_index_adapter][WARNING] - LLM error for 41790911: Timeout on reading data from socket
+[2026-07-21 21:57:26,575][add_doc_index_adapter][WARNING] - LLM error for 41811327: Timeout on reading data from socket
+[2026-07-21 21:57:26,575][add_doc_index_adapter][WARNING] - LLM error for 41822527: Timeout on reading data from socket
+[2026-07-21 21:57:26,576][add_doc_index_adapter][WARNING] - LLM error for 41852733: Timeout on reading data from socket
+[2026-07-21 21:57:26,576][add_doc_index_adapter][WARNING] - LLM error for 41877386: Timeout on reading data from socket
+[2026-07-21 21:57:26,577][add_doc_index_adapter][WARNING] - LLM error for 41900731: Timeout on reading data from socket
+[2026-07-21 21:57:26,577][add_doc_index_adapter][WARNING] - LLM error for 41911192: Timeout on reading data from socket
+[2026-07-21 21:57:26,578][add_doc_index_adapter][WARNING] - LLM error for 41913714: Timeout on reading data from socket
+[2026-07-21 21:57:26,578][add_doc_index_adapter][WARNING] - LLM error for 41915616: Timeout on reading data from socket
+[2026-07-21 21:57:26,578][add_doc_index_adapter][WARNING] - LLM error for 41925568: Timeout on reading data from socket
+[2026-07-21 21:57:26,579][add_doc_index_adapter][WARNING] - LLM error for 41928290: Timeout on reading data from socket
+[2026-07-21 21:57:26,581][add_doc_index_adapter][WARNING] - LLM error for 41976370: Timeout on reading data from socket
+[2026-07-21 21:57:26,582][add_doc_index_adapter][WARNING] - LLM error for 41982985: Timeout on reading data from socket
+[2026-07-21 21:57:26,582][add_doc_index_adapter][WARNING] - LLM error for 42009630: Timeout on reading data from socket
+[2026-07-21 21:57:26,583][add_doc_index_adapter][WARNING] - LLM error for 42035464: Timeout on reading data from socket
+[2026-07-21 21:57:26,583][add_doc_index_adapter][WARNING] - LLM error for 42065070: Timeout on reading data from socket
+[2026-07-21 21:57:26,583][add_doc_index_adapter][WARNING] - LLM error for 42080024: Timeout on reading data from socket
+[2026-07-21 21:57:26,584][add_doc_index_adapter][WARNING] - LLM error for 42095718: Timeout on reading data from socket
+[2026-07-21 21:57:26,584][add_doc_index_adapter][WARNING] - LLM error for 42106119: Timeout on reading data from socket
+[2026-07-21 21:57:26,585][add_doc_index_adapter][WARNING] - LLM error for 42150015: Timeout on reading data from socket
+[2026-07-21 21:57:26,592][add_doc_index_adapter][WARNING] - LLM error for 42185082: Timeout on reading data from socket
+[2026-07-21 21:57:26,592][add_doc_index_adapter][WARNING] - LLM error for 42240424: Timeout on reading data from socket
+[2026-07-21 21:57:26,604][add_doc_index_adapter][WARNING] - LLM error for 42267740: Timeout on reading data from socket
+[2026-07-21 21:57:26,604][add_doc_index_adapter][WARNING] - LLM error for 42278130: Timeout on reading data from socket
+[2026-07-21 21:57:26,605][add_doc_index_adapter][WARNING] - LLM error for 42279414: Timeout on reading data from socket
+[2026-07-21 21:57:26,605][add_doc_index_adapter][WARNING] - LLM error for 42291761: Timeout on reading data from socket
+[2026-07-21 21:57:26,606][add_doc_index_adapter][WARNING] - LLM error for 42298280: Timeout on reading data from socket
+[2026-07-21 21:57:26,606][add_doc_index_adapter][WARNING] - LLM error for 42314147: Timeout on reading data from socket
+[2026-07-21 21:57:26,606][add_doc_index_adapter][WARNING] - LLM error for 42330403: Timeout on reading data from socket
+[2026-07-21 21:57:26,607][add_doc_index_adapter][WARNING] - LLM error for 42373087: Timeout on reading data from socket
+[2026-07-21 21:57:26,607][add_doc_index_adapter][WARNING] - LLM error for 42373943: Timeout on reading data from socket
+[2026-07-21 21:57:26,607][add_doc_index_adapter][WARNING] - LLM error for 42377686: Timeout on reading data from socket
+[2026-07-21 21:57:26,607][add_doc_index_adapter][WARNING] - LLM error for 42387637: Timeout on reading data from socket
+[2026-07-21 21:57:26,608][add_doc_index_adapter][WARNING] - LLM error for 42404093: Timeout on reading data from socket
+[2026-07-21 21:57:26,608][add_doc_index_adapter][WARNING] - LLM error for 42421723: Timeout on reading data from socket
+[2026-07-21 21:57:26,609][add_doc_index_adapter][WARNING] - LLM error for 42441846: Timeout on reading data from socket
+[2026-07-21 21:57:26,609][add_doc_index_adapter][WARNING] - LLM error for 42465769: Timeout on reading data from socket
+[2026-07-21 21:57:26,609][add_doc_index_adapter][WARNING] - LLM error for 42484543: Timeout on reading data from socket
+[2026-07-21 21:57:26,611][add_doc_index_adapter][WARNING] - LLM error for 42489926: Timeout on reading data from socket
+[2026-07-21 21:57:26,611][add_doc_index_adapter][WARNING] - LLM error for 42520882: Timeout on reading data from socket
+[2026-07-21 21:57:26,611][add_doc_index_adapter][WARNING] - LLM error for 42565477: Timeout on reading data from socket
+[2026-07-21 21:57:26,612][add_doc_index_adapter][WARNING] - LLM error for 42601237: Timeout on reading data from socket
+[2026-07-21 21:57:26,612][add_doc_index_adapter][WARNING] - LLM error for 42662816: Timeout on reading data from socket
+[2026-07-21 21:57:26,613][add_doc_index_adapter][WARNING] - LLM error for 42693833: Timeout on reading data from socket
+[2026-07-21 21:57:26,613][add_doc_index_adapter][WARNING] - LLM error for 42708716: Timeout on reading data from socket
+[2026-07-21 21:57:26,632][add_doc_index_adapter][WARNING] - LLM error for 42731834: Timeout on reading data from socket
+[2026-07-21 21:57:26,633][add_doc_index_adapter][WARNING] - LLM error for 42782688: Timeout on reading data from socket
+[2026-07-21 21:57:26,633][add_doc_index_adapter][WARNING] - LLM error for 42787108: Timeout on reading data from socket
+[2026-07-21 21:57:26,633][add_doc_index_adapter][WARNING] - LLM error for 42800527: Timeout on reading data from socket
+[2026-07-21 21:57:26,634][add_doc_index_adapter][WARNING] - LLM error for 42836872: Timeout on reading data from socket
+[2026-07-21 21:57:26,639][add_doc_index_adapter][WARNING] - LLM error for 42855554: Timeout on reading data from socket
+[2026-07-21 21:57:26,639][add_doc_index_adapter][WARNING] - LLM error for 42865134: Timeout on reading data from socket
+[2026-07-21 21:57:26,639][add_doc_index_adapter][WARNING] - LLM error for 42873134: Timeout on reading data from socket
+[2026-07-21 21:57:26,639][add_doc_index_adapter][WARNING] - LLM error for 42913391: Timeout on reading data from socket
+[2026-07-21 21:57:26,640][add_doc_index_adapter][WARNING] - LLM error for 42944505: Timeout on reading data from socket
+[2026-07-21 21:57:26,640][add_doc_index_adapter][WARNING] - LLM error for 42950029: Timeout on reading data from socket
+[2026-07-21 21:57:26,640][add_doc_index_adapter][WARNING] - LLM error for 43014661: Timeout on reading data from socket
+[2026-07-21 21:57:26,641][add_doc_index_adapter][WARNING] - LLM error for 43048059: Timeout on reading data from socket
+[2026-07-21 21:57:26,641][add_doc_index_adapter][WARNING] - LLM error for 43054703: Timeout on reading data from socket
+[2026-07-21 21:57:26,641][add_doc_index_adapter][WARNING] - LLM error for 43122426: Timeout on reading data from socket
+[2026-07-21 21:57:26,642][add_doc_index_adapter][WARNING] - LLM error for 43128141: Timeout on reading data from socket
+[2026-07-21 21:57:26,642][add_doc_index_adapter][WARNING] - LLM error for 43156471: Timeout on reading data from socket
+[2026-07-21 21:57:26,643][add_doc_index_adapter][WARNING] - LLM error for 43165768: Timeout on reading data from socket
+[2026-07-21 21:57:26,643][add_doc_index_adapter][WARNING] - LLM error for 43192375: Timeout on reading data from socket
+[2026-07-21 21:57:26,643][add_doc_index_adapter][WARNING] - LLM error for 43220289: Timeout on reading data from socket
+[2026-07-21 21:57:26,644][add_doc_index_adapter][WARNING] - LLM error for 43224840: Timeout on reading data from socket
+[2026-07-21 21:57:26,644][add_doc_index_adapter][WARNING] - LLM error for 43226130: Timeout on reading data from socket
+[2026-07-21 21:57:26,644][add_doc_index_adapter][WARNING] - LLM error for 43283375: Timeout on reading data from socket
+[2026-07-21 21:57:26,644][add_doc_index_adapter][WARNING] - LLM error for 43311750: Timeout on reading data from socket
+[2026-07-21 21:57:26,645][add_doc_index_adapter][WARNING] - LLM error for 43329366: Timeout on reading data from socket
+[2026-07-21 21:57:26,645][add_doc_index_adapter][WARNING] - LLM error for 43334921: Timeout on reading data from socket
+[2026-07-21 21:57:26,645][add_doc_index_adapter][WARNING] - LLM error for 43378932: Timeout on reading data from socket
+[2026-07-21 21:57:26,646][add_doc_index_adapter][WARNING] - LLM error for 43385013: Timeout on reading data from socket
+[2026-07-21 21:57:26,646][add_doc_index_adapter][WARNING] - LLM error for 43390777: Timeout on reading data from socket
+[2026-07-21 21:57:26,647][add_doc_index_adapter][WARNING] - LLM error for 43417006: Timeout on reading data from socket
+[2026-07-21 21:57:26,647][add_doc_index_adapter][WARNING] - LLM error for 43419566: Timeout on reading data from socket
+[2026-07-21 21:57:26,647][add_doc_index_adapter][WARNING] - LLM error for 43427621: Timeout on reading data from socket
+[2026-07-21 21:57:26,648][add_doc_index_adapter][WARNING] - LLM error for 43483151: Timeout on reading data from socket
+[2026-07-21 21:57:26,648][add_doc_index_adapter][WARNING] - LLM error for 43534665: Timeout on reading data from socket
+[2026-07-21 21:57:26,649][add_doc_index_adapter][WARNING] - LLM error for 43557480: Timeout on reading data from socket
+[2026-07-21 21:57:26,649][add_doc_index_adapter][WARNING] - LLM error for 43566999: Timeout on reading data from socket
+[2026-07-21 21:57:26,649][add_doc_index_adapter][WARNING] - LLM error for 43587663: Timeout on reading data from socket
+[2026-07-21 21:57:26,649][add_doc_index_adapter][WARNING] - LLM error for 43602749: Timeout on reading data from socket
+[2026-07-21 21:57:26,650][add_doc_index_adapter][WARNING] - LLM error for 43619625: Timeout on reading data from socket
+[2026-07-21 21:57:26,650][add_doc_index_adapter][WARNING] - LLM error for 43629704: Timeout on reading data from socket
+[2026-07-21 21:57:26,651][add_doc_index_adapter][WARNING] - LLM error for 43647194: Timeout on reading data from socket
+[2026-07-21 21:57:26,651][add_doc_index_adapter][WARNING] - LLM error for 43661837: Timeout on reading data from socket
+[2026-07-21 21:57:26,651][add_doc_index_adapter][WARNING] - LLM error for 43700577: Timeout on reading data from socket
+[2026-07-21 21:57:26,651][add_doc_index_adapter][WARNING] - LLM error for 43711341: Timeout on reading data from socket
+[2026-07-21 21:57:26,652][add_doc_index_adapter][WARNING] - LLM error for 43752562: Timeout on reading data from socket
+[2026-07-21 21:57:26,652][add_doc_index_adapter][WARNING] - LLM error for 43855756: Timeout on reading data from socket
+[2026-07-21 21:57:26,652][add_doc_index_adapter][WARNING] - LLM error for 43880096: Timeout on reading data from socket
+[2026-07-21 21:57:26,653][add_doc_index_adapter][WARNING] - LLM error for 43890638: Timeout on reading data from socket
+[2026-07-21 21:57:26,653][add_doc_index_adapter][WARNING] - LLM error for 43990286: Timeout on reading data from socket
+[2026-07-21 21:57:26,654][add_doc_index_adapter][WARNING] - LLM error for 44030361: Timeout on reading data from socket
+[2026-07-21 21:57:26,654][add_doc_index_adapter][WARNING] - LLM error for 44048701: Timeout on reading data from socket
+[2026-07-21 21:57:26,654][add_doc_index_adapter][WARNING] - LLM error for 44172171: Timeout on reading data from socket
+[2026-07-21 21:57:26,654][add_doc_index_adapter][WARNING] - LLM error for 44264297: Timeout on reading data from socket
+[2026-07-21 21:57:26,679][add_doc_index_adapter][WARNING] - LLM error for 44265107: Timeout on reading data from socket
+[2026-07-21 21:57:26,680][add_doc_index_adapter][WARNING] - LLM error for 44366096: Timeout on reading data from socket
+[2026-07-21 21:57:26,680][add_doc_index_adapter][WARNING] - LLM error for 44384384: Timeout on reading data from socket
+[2026-07-21 21:57:26,680][add_doc_index_adapter][WARNING] - LLM error for 44387884: Timeout on reading data from socket
+[2026-07-21 21:57:26,681][add_doc_index_adapter][WARNING] - LLM error for 44408494: Timeout on reading data from socket
+[2026-07-21 21:57:26,681][add_doc_index_adapter][WARNING] - LLM error for 44409062: Timeout on reading data from socket
+[2026-07-21 21:57:26,681][add_doc_index_adapter][WARNING] - LLM error for 44420873: Timeout on reading data from socket
+[2026-07-21 21:57:26,682][add_doc_index_adapter][WARNING] - LLM error for 44500794: Timeout on reading data from socket
+[2026-07-21 21:57:26,682][add_doc_index_adapter][WARNING] - LLM error for 44562058: Timeout on reading data from socket
+[2026-07-21 21:57:26,682][add_doc_index_adapter][WARNING] - LLM error for 44562221: Timeout on reading data from socket
+[2026-07-21 21:57:26,688][add_doc_index_adapter][WARNING] - LLM error for 44562904: Timeout on reading data from socket
+[2026-07-21 21:57:26,689][add_doc_index_adapter][WARNING] - LLM error for 44572913: Timeout on reading data from socket
+[2026-07-21 21:57:26,689][add_doc_index_adapter][WARNING] - LLM error for 44586415: Timeout on reading data from socket
+[2026-07-21 21:57:26,689][add_doc_index_adapter][WARNING] - LLM error for 44614949: Timeout on reading data from socket
+[2026-07-21 21:57:26,690][add_doc_index_adapter][WARNING] - LLM error for 44624045: Timeout on reading data from socket
+[2026-07-21 21:57:26,692][add_doc_index_adapter][WARNING] - LLM error for 44629665: Timeout on reading data from socket
+[2026-07-21 21:57:26,693][add_doc_index_adapter][WARNING] - LLM error for 44640124: Timeout on reading data from socket
+[2026-07-21 21:57:26,693][add_doc_index_adapter][WARNING] - LLM error for 44660616: Timeout on reading data from socket
+[2026-07-21 21:57:26,693][add_doc_index_adapter][WARNING] - LLM error for 44672703: Timeout on reading data from socket
+[2026-07-21 21:57:26,694][add_doc_index_adapter][WARNING] - LLM error for 44674301: Timeout on reading data from socket
+[2026-07-21 21:57:26,694][add_doc_index_adapter][WARNING] - LLM error for 44693226: Timeout on reading data from socket
+[2026-07-21 21:57:26,694][add_doc_index_adapter][WARNING] - LLM error for 44724517: Timeout on reading data from socket
+[2026-07-21 21:57:26,695][add_doc_index_adapter][WARNING] - LLM error for 44737533: Timeout on reading data from socket
+[2026-07-21 21:57:26,699][add_doc_index_adapter][WARNING] - LLM error for 44801733: Timeout on reading data from socket
+[2026-07-21 21:57:26,702][add_doc_index_adapter][WARNING] - LLM error for 44827480: Timeout on reading data from socket
+[2026-07-21 21:57:26,702][add_doc_index_adapter][WARNING] - LLM error for 44830890: Timeout on reading data from socket
+[2026-07-21 21:57:26,702][add_doc_index_adapter][WARNING] - LLM error for 44935041: Timeout on reading data from socket
+[2026-07-21 21:57:26,703][add_doc_index_adapter][WARNING] - LLM error for 44947611: Timeout on reading data from socket
+[2026-07-21 21:57:26,703][add_doc_index_adapter][WARNING] - LLM error for 45015767: Timeout on reading data from socket
+[2026-07-21 21:57:26,703][add_doc_index_adapter][WARNING] - LLM error for 45027320: Timeout on reading data from socket
+[2026-07-21 21:57:26,704][add_doc_index_adapter][WARNING] - LLM error for 45096063: Timeout on reading data from socket
+[2026-07-21 21:57:26,704][add_doc_index_adapter][WARNING] - LLM error for 45143088: Timeout on reading data from socket
+[2026-07-21 21:57:26,705][add_doc_index_adapter][WARNING] - LLM error for 45153864: Timeout on reading data from socket
+[2026-07-21 21:57:26,705][add_doc_index_adapter][WARNING] - LLM error for 45154987: Timeout on reading data from socket
+[2026-07-21 21:57:26,705][add_doc_index_adapter][WARNING] - LLM error for 45166582: Timeout on reading data from socket
+[2026-07-21 21:57:26,706][add_doc_index_adapter][WARNING] - LLM error for 45199834: Timeout on reading data from socket
+[2026-07-21 21:57:26,722][add_doc_index_adapter][WARNING] - LLM error for 45200347: Timeout on reading data from socket
+[2026-07-21 21:57:26,722][add_doc_index_adapter][WARNING] - LLM error for 45218443: Timeout on reading data from socket
+[2026-07-21 21:57:26,723][add_doc_index_adapter][WARNING] - LLM error for 45244537: Timeout on reading data from socket
+[2026-07-21 21:57:26,723][add_doc_index_adapter][WARNING] - LLM error for 45276789: Timeout on reading data from socket
+[2026-07-21 21:57:26,723][add_doc_index_adapter][WARNING] - LLM error for 45287266: Timeout on reading data from socket
+[2026-07-21 21:57:26,724][add_doc_index_adapter][WARNING] - LLM error for 45336190: Timeout on reading data from socket
+[2026-07-21 21:57:26,724][add_doc_index_adapter][WARNING] - LLM error for 45341480: Timeout on reading data from socket
+[2026-07-21 21:57:26,724][add_doc_index_adapter][WARNING] - LLM error for 45364685: Timeout on reading data from socket
+[2026-07-21 21:57:26,725][add_doc_index_adapter][WARNING] - LLM error for 45401535: Timeout on reading data from socket
+[2026-07-21 21:57:26,725][add_doc_index_adapter][WARNING] - LLM error for 45408403: Timeout on reading data from socket
+[2026-07-21 21:57:26,726][add_doc_index_adapter][WARNING] - LLM error for 45414636: Timeout on reading data from socket
+[2026-07-21 21:57:26,726][add_doc_index_adapter][WARNING] - LLM error for 45447613: Timeout on reading data from socket
+[2026-07-21 21:57:26,726][add_doc_index_adapter][WARNING] - LLM error for 45449835: Timeout on reading data from socket
+[2026-07-21 21:57:26,727][add_doc_index_adapter][WARNING] - LLM error for 45457778: Timeout on reading data from socket
+[2026-07-21 21:57:26,727][add_doc_index_adapter][WARNING] - LLM error for 45461275: Timeout on reading data from socket
+[2026-07-21 21:57:26,727][add_doc_index_adapter][WARNING] - LLM error for 45487164: Timeout on reading data from socket
+[2026-07-21 21:57:26,727][add_doc_index_adapter][WARNING] - LLM error for 45548062: Timeout on reading data from socket
+[2026-07-21 21:57:26,745][add_doc_index_adapter][WARNING] - LLM error for 45581752: Timeout on reading data from socket
+[2026-07-21 21:57:26,746][add_doc_index_adapter][WARNING] - LLM error for 45638119: Timeout on reading data from socket
+[2026-07-21 21:57:26,746][add_doc_index_adapter][WARNING] - LLM error for 45651303: Timeout on reading data from socket
+[2026-07-21 21:57:26,746][add_doc_index_adapter][WARNING] - LLM error for 45764440: Timeout on reading data from socket
+[2026-07-21 21:57:26,747][add_doc_index_adapter][WARNING] - LLM error for 45770026: Timeout on reading data from socket
+[2026-07-21 21:57:26,755][add_doc_index_adapter][WARNING] - LLM error for 45820464: Timeout on reading data from socket
+[2026-07-21 21:57:26,755][add_doc_index_adapter][WARNING] - LLM error for 45875990: Timeout on reading data from socket
+[2026-07-21 21:57:26,755][add_doc_index_adapter][WARNING] - LLM error for 45908102: Timeout on reading data from socket
+[2026-07-21 21:57:26,756][add_doc_index_adapter][WARNING] - LLM error for 45920278: Timeout on reading data from socket
+[2026-07-21 21:57:26,756][add_doc_index_adapter][WARNING] - LLM error for 46112052: Timeout on reading data from socket
+[2026-07-21 21:57:26,756][add_doc_index_adapter][WARNING] - LLM error for 46127781: Timeout on reading data from socket
+[2026-07-21 21:57:26,756][add_doc_index_adapter][WARNING] - LLM error for 46135768: Timeout on reading data from socket
+[2026-07-21 21:57:26,757][add_doc_index_adapter][WARNING] - LLM error for 46153874: Timeout on reading data from socket
+[2026-07-21 21:57:26,757][add_doc_index_adapter][WARNING] - LLM error for 46182525: Timeout on reading data from socket
+[2026-07-21 21:57:26,757][add_doc_index_adapter][WARNING] - LLM error for 46193388: Timeout on reading data from socket
+[2026-07-21 21:57:26,757][add_doc_index_adapter][WARNING] - LLM error for 46193478: Timeout on reading data from socket
+[2026-07-21 21:57:26,758][add_doc_index_adapter][WARNING] - LLM error for 46202852: Timeout on reading data from socket
+[2026-07-21 21:57:26,758][add_doc_index_adapter][WARNING] - LLM error for 46248894: Timeout on reading data from socket
+[2026-07-21 21:57:26,759][add_doc_index_adapter][WARNING] - LLM error for 46266579: Timeout on reading data from socket
+[2026-07-21 21:57:26,759][add_doc_index_adapter][WARNING] - LLM error for 46277811: Timeout on reading data from socket
+[2026-07-21 21:57:26,759][add_doc_index_adapter][WARNING] - LLM error for 46305977: Timeout on reading data from socket
+[2026-07-21 21:57:26,760][add_doc_index_adapter][WARNING] - LLM error for 46328296: Timeout on reading data from socket
+[2026-07-21 21:57:26,760][add_doc_index_adapter][WARNING] - LLM error for 46346525: Timeout on reading data from socket
+[2026-07-21 21:57:26,760][add_doc_index_adapter][WARNING] - LLM error for 46353045: Timeout on reading data from socket
+[2026-07-21 21:57:26,761][add_doc_index_adapter][WARNING] - LLM error for 46355579: Timeout on reading data from socket
+[2026-07-21 21:57:26,761][add_doc_index_adapter][WARNING] - LLM error for 46437558: Timeout on reading data from socket
+[2026-07-21 21:57:26,761][add_doc_index_adapter][WARNING] - LLM error for 46451940: Timeout on reading data from socket
+[2026-07-21 21:57:26,761][add_doc_index_adapter][WARNING] - LLM error for 46478393: Timeout on reading data from socket
+[2026-07-21 21:57:26,762][add_doc_index_adapter][WARNING] - LLM error for 46485368: Timeout on reading data from socket
+[2026-07-21 21:57:26,762][add_doc_index_adapter][WARNING] - LLM error for 46517055: Timeout on reading data from socket
+[2026-07-21 21:57:26,762][add_doc_index_adapter][WARNING] - LLM error for 46565020: Timeout on reading data from socket
+[2026-07-21 21:57:26,762][add_doc_index_adapter][WARNING] - LLM error for 46565968: Timeout on reading data from socket
+[2026-07-21 21:57:26,763][add_doc_index_adapter][WARNING] - LLM error for 46594244: Timeout on reading data from socket
+[2026-07-21 21:57:26,763][add_doc_index_adapter][WARNING] - LLM error for 46602807: Timeout on reading data from socket
+[2026-07-21 21:57:26,764][add_doc_index_adapter][WARNING] - LLM error for 46617075: Timeout on reading data from socket
+[2026-07-21 21:57:26,764][add_doc_index_adapter][WARNING] - LLM error for 46695481: Timeout on reading data from socket
+[2026-07-21 21:57:26,764][add_doc_index_adapter][WARNING] - LLM error for 46743299: Timeout on reading data from socket
+[2026-07-21 21:57:26,765][add_doc_index_adapter][WARNING] - LLM error for 46764350: Timeout on reading data from socket
+[2026-07-21 21:57:26,765][add_doc_index_adapter][WARNING] - LLM error for 46765242: Timeout on reading data from socket
+[2026-07-21 21:57:26,766][add_doc_index_adapter][WARNING] - LLM error for 46816158: Timeout on reading data from socket
+[2026-07-21 21:57:26,766][add_doc_index_adapter][WARNING] - LLM error for 46837626: Timeout on reading data from socket
+[2026-07-21 21:57:26,766][add_doc_index_adapter][WARNING] - LLM error for 46926352: Timeout on reading data from socket
+[2026-07-21 21:57:26,767][add_doc_index_adapter][WARNING] - LLM error for 47018050: Timeout on reading data from socket
+[2026-07-21 21:57:26,767][add_doc_index_adapter][WARNING] - LLM error for 47240151: Timeout on reading data from socket
+[2026-07-21 21:57:26,767][add_doc_index_adapter][WARNING] - LLM error for 49208216: Timeout on reading data from socket
+[2026-07-21 21:57:26,768][add_doc_index_adapter][WARNING] - LLM error for 49429882: Timeout on reading data from socket
+[2026-07-21 21:57:26,768][add_doc_index_adapter][WARNING] - LLM error for 49432306: Timeout on reading data from socket
+[2026-07-21 21:57:26,768][add_doc_index_adapter][WARNING] - LLM error for 49556906: Timeout on reading data from socket
+[2026-07-21 21:57:26,768][add_doc_index_adapter][WARNING] - LLM error for 50670403: Timeout on reading data from socket
+[2026-07-21 21:57:26,769][add_doc_index_adapter][WARNING] - LLM error for 51386222: Timeout on reading data from socket
+[2026-07-21 21:57:26,770][add_doc_index_adapter][WARNING] - LLM error for 51706771: Timeout on reading data from socket
+[2026-07-21 21:57:26,770][add_doc_index_adapter][WARNING] - LLM error for 51728753: Timeout on reading data from socket
+[2026-07-21 21:57:26,770][add_doc_index_adapter][WARNING] - LLM error for 51817902: Timeout on reading data from socket
+[2026-07-21 21:57:26,771][add_doc_index_adapter][WARNING] - LLM error for 51865482: Timeout on reading data from socket
+[2026-07-21 21:57:26,771][add_doc_index_adapter][WARNING] - LLM error for 51952430: Timeout on reading data from socket
+[2026-07-21 21:57:26,771][add_doc_index_adapter][WARNING] - LLM error for 51972698: Timeout on reading data from socket
+[2026-07-21 21:57:26,772][add_doc_index_adapter][WARNING] - LLM error for 52072815: Timeout on reading data from socket
+[2026-07-21 21:57:26,772][add_doc_index_adapter][WARNING] - LLM error for 52095986: Timeout on reading data from socket
+[2026-07-21 21:57:26,772][add_doc_index_adapter][WARNING] - LLM error for 52175065: Timeout on reading data from socket
+[2026-07-21 21:57:26,773][add_doc_index_adapter][WARNING] - LLM error for 52176296: Timeout on reading data from socket
+[2026-07-21 21:57:26,773][add_doc_index_adapter][WARNING] - LLM error for 52180874: Timeout on reading data from socket
+[2026-07-21 21:57:26,773][add_doc_index_adapter][WARNING] - LLM error for 52188256: Timeout on reading data from socket
+[2026-07-21 21:57:26,774][add_doc_index_adapter][WARNING] - LLM error for 52805891: Timeout on reading data from socket
+[2026-07-21 21:57:26,774][add_doc_index_adapter][WARNING] - LLM error for 52824661: Timeout on reading data from socket
+[2026-07-21 21:57:26,774][add_doc_index_adapter][WARNING] - LLM error for 52827184: Timeout on reading data from socket
+[2026-07-21 21:57:26,775][add_doc_index_adapter][WARNING] - LLM error for 52850476: Timeout on reading data from socket
+[2026-07-21 21:57:26,775][add_doc_index_adapter][WARNING] - LLM error for 52865789: Timeout on reading data from socket
+[2026-07-21 21:57:26,776][add_doc_index_adapter][WARNING] - LLM error for 52868579: Timeout on reading data from socket
+[2026-07-21 21:57:26,776][add_doc_index_adapter][WARNING] - LLM error for 52873726: Timeout on reading data from socket
+[2026-07-21 21:57:26,776][add_doc_index_adapter][WARNING] - LLM error for 52874170: Timeout on reading data from socket
+[2026-07-21 21:57:26,776][add_doc_index_adapter][WARNING] - LLM error for 52887689: Timeout on reading data from socket
+[2026-07-21 21:57:26,777][add_doc_index_adapter][WARNING] - LLM error for 52893592: Timeout on reading data from socket
+[2026-07-21 21:57:26,777][add_doc_index_adapter][WARNING] - LLM error for 52925737: Timeout on reading data from socket
+[2026-07-21 21:57:26,777][add_doc_index_adapter][WARNING] - LLM error for 52944377: Timeout on reading data from socket
+[2026-07-21 21:57:26,778][add_doc_index_adapter][WARNING] - LLM error for 53033275: Timeout on reading data from socket
+[2026-07-21 21:57:26,778][add_doc_index_adapter][WARNING] - LLM error for 53211308: Timeout on reading data from socket
+[2026-07-21 21:57:26,778][add_doc_index_adapter][WARNING] - LLM error for 53302393: Timeout on reading data from socket
+[2026-07-21 21:57:26,779][add_doc_index_adapter][WARNING] - LLM error for 53779698: Timeout on reading data from socket
+[2026-07-21 21:57:26,779][add_doc_index_adapter][WARNING] - LLM error for 54482327: Timeout on reading data from socket
+[2026-07-21 21:57:26,779][add_doc_index_adapter][WARNING] - LLM error for 54490092: Timeout on reading data from socket
+[2026-07-21 21:57:26,780][add_doc_index_adapter][WARNING] - LLM error for 54561384: Timeout on reading data from socket
+[2026-07-21 21:57:26,780][add_doc_index_adapter][WARNING] - LLM error for 54561709: Timeout on reading data from socket
+[2026-07-21 21:57:26,781][add_doc_index_adapter][WARNING] - LLM error for 54562433: Timeout on reading data from socket
+[2026-07-21 21:57:26,781][add_doc_index_adapter][WARNING] - LLM error for 55040297: Timeout on reading data from socket
+[2026-07-21 21:57:26,781][add_doc_index_adapter][WARNING] - LLM error for 55128127: Timeout on reading data from socket
+[2026-07-21 21:57:26,782][add_doc_index_adapter][WARNING] - LLM error for 56391045: Timeout on reading data from socket
+[2026-07-21 21:57:26,783][add_doc_index_adapter][WARNING] - LLM error for 56486733: Timeout on reading data from socket
+[2026-07-21 21:57:26,783][add_doc_index_adapter][WARNING] - LLM error for 56528795: Timeout on reading data from socket
+[2026-07-21 21:57:26,784][add_doc_index_adapter][WARNING] - LLM error for 56893404: Timeout on reading data from socket
+[2026-07-21 21:57:26,784][add_doc_index_adapter][WARNING] - LLM error for 57121667: Timeout on reading data from socket
+[2026-07-21 21:57:26,784][add_doc_index_adapter][WARNING] - LLM error for 57574395: Timeout on reading data from socket
+[2026-07-21 21:57:26,785][add_doc_index_adapter][WARNING] - LLM error for 57762078: Timeout on reading data from socket
+[2026-07-21 21:57:26,785][add_doc_index_adapter][WARNING] - LLM error for 57783564: Timeout on reading data from socket
+[2026-07-21 21:57:26,785][add_doc_index_adapter][WARNING] - LLM error for 58006489: Timeout on reading data from socket
+[2026-07-21 21:57:26,786][add_doc_index_adapter][WARNING] - LLM error for 58050905: Timeout on reading data from socket
+[2026-07-21 21:57:26,786][add_doc_index_adapter][WARNING] - LLM error for 58564850: Timeout on reading data from socket
+[2026-07-21 21:57:26,787][add_doc_index_adapter][WARNING] - LLM error for 59453688: Timeout on reading data from socket
+[2026-07-21 21:57:26,787][add_doc_index_adapter][WARNING] - LLM error for 60206680: Timeout on reading data from socket
+[2026-07-21 21:57:26,787][add_doc_index_adapter][WARNING] - LLM error for 60515890: Timeout on reading data from socket
+[2026-07-21 21:57:26,788][add_doc_index_adapter][WARNING] - LLM error for 61050894: Timeout on reading data from socket
+[2026-07-21 21:57:26,788][add_doc_index_adapter][WARNING] - LLM error for 63858430: Timeout on reading data from socket
+[2026-07-21 21:57:26,788][add_doc_index_adapter][WARNING] - LLM error for 67045088: Timeout on reading data from socket
+[2026-07-21 21:57:26,788][add_doc_index_adapter][WARNING] - LLM error for 67787658: Timeout on reading data from socket
+[2026-07-21 21:57:26,789][add_doc_index_adapter][WARNING] - LLM error for 68317730: Timeout on reading data from socket
+[2026-07-21 21:57:26,789][add_doc_index_adapter][WARNING] - LLM error for 69045262: Timeout on reading data from socket
+[2026-07-21 21:57:26,790][add_doc_index_adapter][WARNING] - LLM error for 70439309: Timeout on reading data from socket
+[2026-07-21 21:57:26,790][add_doc_index_adapter][WARNING] - LLM error for 70455704: Timeout on reading data from socket
+[2026-07-21 21:57:26,790][add_doc_index_adapter][WARNING] - LLM error for 70516463: Timeout on reading data from socket
+[2026-07-21 21:57:26,790][add_doc_index_adapter][WARNING] - LLM error for 70633421: Timeout on reading data from socket
+[2026-07-21 21:57:26,791][add_doc_index_adapter][WARNING] - LLM error for 70704988: Timeout on reading data from socket
+[2026-07-21 21:57:26,791][add_doc_index_adapter][WARNING] - LLM error for 70895396: Timeout on reading data from socket
+[2026-07-21 21:57:26,791][add_doc_index_adapter][WARNING] - LLM error for 71341302: Timeout on reading data from socket
+[2026-07-21 21:57:26,792][add_doc_index_adapter][WARNING] - LLM error for 71625969: Timeout on reading data from socket
+[2026-07-21 21:57:26,792][add_doc_index_adapter][WARNING] - LLM error for 71628189: Timeout on reading data from socket
+[2026-07-21 21:57:26,792][add_doc_index_adapter][WARNING] - LLM error for 72180760: Timeout on reading data from socket
+[2026-07-21 21:57:26,792][add_doc_index_adapter][WARNING] - LLM error for 72372925: Timeout on reading data from socket
+[2026-07-21 21:57:26,793][add_doc_index_adapter][WARNING] - LLM error for 72580164: Timeout on reading data from socket
+[2026-07-21 21:57:27,058][add_doc_index_adapter][WARNING] - LLM error for 72933407: Timeout on reading data from socket
+[2026-07-21 21:57:27,059][add_doc_index_adapter][WARNING] - LLM error for 73136607: Timeout on reading data from socket
+[2026-07-21 21:57:27,059][add_doc_index_adapter][WARNING] - LLM error for 73323408: Timeout on reading data from socket
+[2026-07-21 21:57:27,059][add_doc_index_adapter][WARNING] - LLM error for 73473433: Timeout on reading data from socket
+[2026-07-21 21:57:27,059][add_doc_index_adapter][WARNING] - LLM error for 74137632: Timeout on reading data from socket
+[2026-07-21 21:57:27,060][add_doc_index_adapter][WARNING] - LLM error for 74701974: Timeout on reading data from socket
+[2026-07-21 21:57:27,062][add_doc_index_adapter][WARNING] - LLM error for 75636923: Timeout on reading data from socket
+[2026-07-21 21:57:27,063][add_doc_index_adapter][WARNING] - LLM error for 76415938: Timeout on reading data from socket
+[2026-07-21 21:57:27,068][add_doc_index_adapter][WARNING] - LLM error for 76463821: Timeout on reading data from socket
+[2026-07-21 21:57:27,068][add_doc_index_adapter][WARNING] - LLM error for 76776022: Timeout on reading data from socket
+[2026-07-21 21:57:27,068][add_doc_index_adapter][WARNING] - LLM error for 77971703: Timeout on reading data from socket
+[2026-07-21 21:57:27,068][add_doc_index_adapter][WARNING] - LLM error for 79231308: Timeout on reading data from socket
+[2026-07-21 21:57:27,069][add_doc_index_adapter][WARNING] - LLM error for 79336156: Timeout on reading data from socket
+[2026-07-21 21:57:27,069][add_doc_index_adapter][WARNING] - LLM error for 79696454: Timeout on reading data from socket
+[2026-07-21 21:57:27,070][add_doc_index_adapter][WARNING] - LLM error for 80109277: Timeout on reading data from socket
+[2026-07-21 21:57:27,070][add_doc_index_adapter][WARNING] - LLM error for 80522346: Timeout on reading data from socket
+[2026-07-21 21:57:27,070][add_doc_index_adapter][WARNING] - LLM error for 81498132: Timeout on reading data from socket
+[2026-07-21 21:57:27,071][add_doc_index_adapter][WARNING] - LLM error for 82665667: Timeout on reading data from socket
+[2026-07-21 21:57:27,071][add_doc_index_adapter][WARNING] - LLM error for 82971616: Timeout on reading data from socket
+[2026-07-21 21:57:27,076][add_doc_index_adapter][WARNING] - LLM error for 83308790: Timeout on reading data from socket
+[2026-07-21 21:57:27,100][add_doc_index_adapter][WARNING] - LLM error for 83667891: Timeout on reading data from socket
+[2026-07-21 21:57:27,100][add_doc_index_adapter][WARNING] - LLM error for 83707680: Timeout on reading data from socket
+[2026-07-21 21:57:27,101][add_doc_index_adapter][WARNING] - LLM error for 84085333: Timeout on reading data from socket
+[2026-07-21 21:57:27,101][add_doc_index_adapter][WARNING] - LLM error for 84244109: Timeout on reading data from socket
+[2026-07-21 21:57:27,101][add_doc_index_adapter][WARNING] - LLM error for 84379954: Timeout on reading data from socket
+[2026-07-21 21:57:27,106][add_doc_index_adapter][WARNING] - LLM error for 84580585: Timeout on reading data from socket
+[2026-07-21 21:57:27,106][add_doc_index_adapter][WARNING] - LLM error for 84784389: Timeout on reading data from socket
+[2026-07-21 21:57:27,106][add_doc_index_adapter][WARNING] - LLM error for 84884645: Timeout on reading data from socket
+[2026-07-21 21:57:27,107][add_doc_index_adapter][WARNING] - LLM error for 85326624: Timeout on reading data from socket
+[2026-07-21 21:57:27,107][add_doc_index_adapter][WARNING] - LLM error for 85394684: Timeout on reading data from socket
+[2026-07-21 21:57:27,108][add_doc_index_adapter][WARNING] - LLM error for 85665741: Timeout on reading data from socket
+[2026-07-21 21:57:27,108][add_doc_index_adapter][WARNING] - LLM error for 85693958: Timeout on reading data from socket
+[2026-07-21 21:57:27,109][add_doc_index_adapter][WARNING] - LLM error for 86129154: Timeout on reading data from socket
+[2026-07-21 21:57:27,109][add_doc_index_adapter][WARNING] - LLM error for 86160128: Timeout on reading data from socket
+[2026-07-21 21:57:27,109][add_doc_index_adapter][WARNING] - LLM error for 86211914: Timeout on reading data from socket
+[2026-07-21 21:57:27,109][add_doc_index_adapter][WARNING] - LLM error for 86217760: Timeout on reading data from socket
+[2026-07-21 21:57:27,110][add_doc_index_adapter][WARNING] - LLM error for 86231298: Timeout on reading data from socket
+[2026-07-21 21:57:27,110][add_doc_index_adapter][WARNING] - LLM error for 86326468: Timeout on reading data from socket
+[2026-07-21 21:57:27,110][add_doc_index_adapter][WARNING] - LLM error for 86602746: Timeout on reading data from socket
+[2026-07-21 21:57:27,123][add_doc_index_adapter][WARNING] - LLM error for 86694016: Timeout on reading data from socket
+[2026-07-21 21:57:27,123][add_doc_index_adapter][WARNING] - LLM error for 86704258: Timeout on reading data from socket
+[2026-07-21 21:57:27,124][add_doc_index_adapter][WARNING] - LLM error for 87337034: Timeout on reading data from socket
+[2026-07-21 21:57:27,124][add_doc_index_adapter][WARNING] - LLM error for 87430549: Timeout on reading data from socket
+[2026-07-21 21:57:27,568][add_doc_index_adapter][WARNING] - LLM error for 87610599: Timeout on reading data from socket
+[2026-07-21 21:57:27,568][add_doc_index_adapter][WARNING] - LLM error for 87986426: Timeout on reading data from socket
+[2026-07-21 21:57:27,569][add_doc_index_adapter][WARNING] - LLM error for 90064424: Timeout on reading data from socket
+[2026-07-21 21:57:27,569][add_doc_index_adapter][WARNING] - LLM error for 90756514: Timeout on reading data from socket
+[2026-07-21 21:57:27,569][add_doc_index_adapter][WARNING] - LLM error for 94109411: Timeout on reading data from socket
+[2026-07-21 21:57:27,570][add_doc_index_adapter][WARNING] - LLM error for 94365950: Timeout on reading data from socket
+[2026-07-21 21:57:27,570][add_doc_index_adapter][WARNING] - LLM error for 95102458: Timeout on reading data from socket
+[2026-07-21 21:57:27,570][add_doc_index_adapter][WARNING] - LLM error for 95764370: Timeout on reading data from socket
+[2026-07-21 21:57:27,571][add_doc_index_adapter][WARNING] - LLM error for 96222213: Timeout on reading data from socket
+[2026-07-21 21:57:27,571][add_doc_index_adapter][WARNING] - LLM error for 97566194: Timeout on reading data from socket
+[2026-07-21 21:57:27,572][add_doc_index_adapter][WARNING] - LLM error for 99829811: Timeout on reading data from socket
+[2026-07-21 21:57:27,572][add_doc_index_adapter][WARNING] - LLM error for 104143831: Timeout on reading data from socket
+[2026-07-21 21:57:27,572][add_doc_index_adapter][WARNING] - LLM error for 108886332: Timeout on reading data from socket
+[2026-07-21 21:57:27,572][add_doc_index_adapter][WARNING] - LLM error for 109795294: Timeout on reading data from socket
+[2026-07-21 21:57:27,573][add_doc_index_adapter][WARNING] - LLM error for 109946221: Timeout on reading data from socket
+[2026-07-21 21:57:27,573][add_doc_index_adapter][WARNING] - LLM error for 116075383: Timeout on reading data from socket
+[2026-07-21 21:57:27,573][add_doc_index_adapter][WARNING] - LLM error for 116556376: Timeout on reading data from socket
+[2026-07-21 21:57:27,573][add_doc_index_adapter][WARNING] - LLM error for 117907685: Timeout on reading data from socket
+[2026-07-21 21:57:27,574][add_doc_index_adapter][WARNING] - LLM error for 118215171: Timeout on reading data from socket
+[2026-07-21 21:57:27,574][add_doc_index_adapter][WARNING] - LLM error for 120385993: Timeout on reading data from socket
+[2026-07-21 21:57:27,574][add_doc_index_adapter][WARNING] - LLM error for 121001457: Timeout on reading data from socket
+[2026-07-21 21:57:27,575][add_doc_index_adapter][WARNING] - LLM error for 121581019: Timeout on reading data from socket
+[2026-07-21 21:57:27,575][add_doc_index_adapter][WARNING] - LLM error for 126549848: Timeout on reading data from socket
+[2026-07-21 21:57:27,575][add_doc_index_adapter][WARNING] - LLM error for 129199129: Timeout on reading data from socket
+[2026-07-21 21:57:27,575][add_doc_index_adapter][WARNING] - LLM error for 140098548: Timeout on reading data from socket
+[2026-07-21 21:57:27,576][add_doc_index_adapter][WARNING] - LLM error for 140907540: Timeout on reading data from socket
+[2026-07-21 21:57:27,576][add_doc_index_adapter][WARNING] - LLM error for 142559798: Timeout on reading data from socket
+[2026-07-21 21:57:27,576][add_doc_index_adapter][WARNING] - LLM error for 142562844: Timeout on reading data from socket
+[2026-07-21 21:57:27,577][add_doc_index_adapter][WARNING] - LLM error for 143381103: Timeout on reading data from socket
+[2026-07-21 21:57:27,577][add_doc_index_adapter][WARNING] - LLM error for 143796742: Timeout on reading data from socket
+[2026-07-21 21:57:27,577][add_doc_index_adapter][WARNING] - LLM error for 143868995: Timeout on reading data from socket
+[2026-07-21 21:57:27,578][add_doc_index_adapter][WARNING] - LLM error for 144555102: Timeout on reading data from socket
+[2026-07-21 21:57:27,673][add_doc_index_adapter][WARNING] - LLM error for 144801076: Timeout on reading data from socket
+[2026-07-21 21:57:27,673][add_doc_index_adapter][WARNING] - LLM error for 145335387: Timeout on reading data from socket
+[2026-07-21 21:57:27,673][add_doc_index_adapter][WARNING] - LLM error for 145383432: Timeout on reading data from socket
+[2026-07-21 21:57:27,674][add_doc_index_adapter][WARNING] - LLM error for 145416918: Timeout on reading data from socket
+[2026-07-21 21:57:27,674][add_doc_index_adapter][WARNING] - LLM error for 145716849: Timeout on reading data from socket
+[2026-07-21 21:57:27,674][add_doc_index_adapter][WARNING] - LLM error for 146653163: Timeout on reading data from socket
+[2026-07-21 21:57:27,683][add_doc_index_adapter][WARNING] - LLM error for 147107523: Timeout on reading data from socket
+[2026-07-21 21:57:27,683][add_doc_index_adapter][WARNING] - LLM error for 153755807: Timeout on reading data from socket
+[2026-07-21 21:57:27,690][add_doc_index_adapter][WARNING] - LLM error for 154050141: Timeout on reading data from socket
+[2026-07-21 21:57:27,691][add_doc_index_adapter][WARNING] - LLM error for 154243324: Timeout on reading data from socket
+[2026-07-21 21:57:27,691][add_doc_index_adapter][WARNING] - LLM error for 154549459: Timeout on reading data from socket
+[2026-07-21 21:57:27,693][add_doc_index_adapter][WARNING] - LLM error for 154763124: Timeout on reading data from socket
+[2026-07-21 21:57:27,693][add_doc_index_adapter][WARNING] - LLM error for 154796494: Timeout on reading data from socket
+[2026-07-21 21:57:27,693][add_doc_index_adapter][WARNING] - LLM error for 155200372: Timeout on reading data from socket
+[2026-07-21 21:57:27,694][add_doc_index_adapter][WARNING] - LLM error for 167469018: Timeout on reading data from socket
+[2026-07-21 21:57:27,694][add_doc_index_adapter][WARNING] - LLM error for 167944455: Timeout on reading data from socket
+[2026-07-21 21:57:27,694][add_doc_index_adapter][WARNING] - LLM error for 168265642: Timeout on reading data from socket
+[2026-07-21 21:57:27,695][add_doc_index_adapter][WARNING] - LLM error for 195317463: Timeout on reading data from socket
+[2026-07-21 21:57:27,695][add_doc_index_adapter][WARNING] - LLM error for 195680777: Timeout on reading data from socket
+[2026-07-21 21:57:27,695][add_doc_index_adapter][WARNING] - LLM error for 195683603: Timeout on reading data from socket
+[2026-07-21 21:57:27,696][add_doc_index_adapter][WARNING] - LLM error for 195689316: Timeout on reading data from socket
+[2026-07-21 21:57:27,696][add_doc_index_adapter][WARNING] - LLM error for 195689757: Timeout on reading data from socket
+[2026-07-21 21:57:27,697][add_doc_index_adapter][WARNING] - LLM error for 196664003: Timeout on reading data from socket
+[2026-07-21 21:57:27,697][add_doc_index_adapter][WARNING] - LLM error for 198133135: Timeout on reading data from socket
+[2026-07-21 21:57:27,697][add_doc_index_adapter][WARNING] - LLM error for 198309074: Timeout on reading data from socket
+[enrich_batch] 794 items  P1(tokenize)=1ms  P2(offsets)=0ms  P4a(resolve+sort)=1ms  P4b(merge)=3ms  total=5ms
+[2026-07-21 21:57:27,708][add_doc_index_adapter][INFO] - Applied enrichments to 99 docs via enrich_batch
+[2026-07-21 21:57:27,710][add_doc_index_adapter][INFO] - Enrichment done in 371.3s (14.0 doc/s): 99 docs enriched, 794 kept / 874 proposed / 80 filtered / 5084 errors
+[2026-07-21 21:57:27,710][add_doc_index_adapter][INFO] - Coverage: 99/5183 enriched, 5084 failed
+[2026-07-21 21:57:27,715][add_doc_index_adapter][INFO] - Evaluating 300 queries @ k=200 …
+[2026-07-21 21:57:27,741][beir.retrieval.evaluation][INFO] - For evaluation, we ignore identical query and document ids (default), please explicitly set ``ignore_identical_ids=False`` to ignore this.
+[2026-07-21 21:57:27,760][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - NDCG@10: 0.6917
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - NDCG@50: 0.7079
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - NDCG@100: 0.7136
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - NDCG@200: 0.7163
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - MAP@10: 0.6435
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - MAP@50: 0.6485
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - MAP@100: 0.6491
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - MAP@200: 0.6493
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - Recall@10: 0.8268
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - Recall@50: 0.8886
+[2026-07-21 21:57:27,761][beir.retrieval.evaluation][INFO] - Recall@100: 0.9216
+[2026-07-21 21:57:27,762][beir.retrieval.evaluation][INFO] - Recall@200: 0.9400
+[2026-07-21 21:57:27,762][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 21:57:27,762][beir.retrieval.evaluation][INFO] - P@10: 0.0913
+[2026-07-21 21:57:27,762][beir.retrieval.evaluation][INFO] - P@50: 0.0201
+[2026-07-21 21:57:27,762][beir.retrieval.evaluation][INFO] - P@100: 0.0104
+[2026-07-21 21:57:27,762][beir.retrieval.evaluation][INFO] - P@200: 0.0053
+[2026-07-21 21:57:27,762][add_doc_index_adapter][INFO] - Results (enriched):
+[2026-07-21 21:57:27,762][add_doc_index_adapter][INFO] -   k=10  NDCG=0.6917  Recall=0.8268
+[2026-07-21 21:57:27,762][add_doc_index_adapter][INFO] -   k=50  NDCG=0.7079  Recall=0.8886
+[2026-07-21 21:57:27,762][add_doc_index_adapter][INFO] -   k=100  NDCG=0.7136  Recall=0.9216
+[2026-07-21 21:57:27,762][add_doc_index_adapter][INFO] -   k=200  NDCG=0.7163  Recall=0.9400
+[2026-07-21 21:57:27,859][add_doc_index_adapter][INFO] - New best: enrich-1784670676 (Recall@10=0.8268, prev=0.0000)
+[2026-07-21 21:57:27,860][add_doc_index_adapter][INFO] - Done → ./experiments/scifact/runs/doc-enrich/enrich-1784670676
+[2026-07-21 21:57:27,865][__main__][INFO] - === scifact / enrich_query (node 0/1) ===
+[2026-07-21 21:57:28,011][enrich_query_and_retrieve][INFO] - Query prompt: configs/enrich/prompts/query_v06.txt
+[2026-07-21 21:57:28,071][enrich_query_and_retrieve][INFO] - Loaded BM25 index: 5183 docs
+[2026-07-21 21:57:28,071][enrich_query_and_retrieve][INFO] - Unigram df filter: max_df=259 (5.0% of 5183 docs)
+[enrich_batch] 794 items  P1(tokenize)=1ms  P2(offsets)=0ms  P4a(resolve+sort)=1ms  P4b(merge)=2ms  total=4ms
+[2026-07-21 21:57:28,078][enrich_query_and_retrieve][INFO] - Applied 99 doc enrichments (batch)
+[2026-07-21 21:57:28,083][enrich_query_and_retrieve][INFO] - Run dir: ./experiments/scifact/runs/query-enrich/query-enrich-1784671048
+[2026-07-21 21:57:28,085][enrich_query_and_retrieve][INFO] - Expanding 300 queries …
+[2026-07-21 22:00:03,442][enrich_query_and_retrieve][INFO] - Query expansion done in 155.4s: 993 kept / 1315 proposed / 322 filtered / 0 errors
+[2026-07-21 22:00:03,442][enrich_query_and_retrieve][INFO] - Searching 300 queries (expansion_weight=0.50) @ k=200 …
+[2026-07-21 22:00:03,569][enrich_query_and_retrieve][INFO] - Saved 300 retrieval results to ./experiments/scifact/retrieval/query-enrich/query-enrich-1784671048.jsonl
+[2026-07-21 22:00:03,569][beir.retrieval.evaluation][INFO] - For evaluation, we ignore identical query and document ids (default), please explicitly set ``ignore_identical_ids=False`` to ignore this.
+[2026-07-21 22:00:03,593][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 22:00:03,593][beir.retrieval.evaluation][INFO] - NDCG@10: 0.6943
+[2026-07-21 22:00:03,593][beir.retrieval.evaluation][INFO] - NDCG@50: 0.7080
+[2026-07-21 22:00:03,593][beir.retrieval.evaluation][INFO] - NDCG@100: 0.7116
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - NDCG@200: 0.7150
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - MAP@10: 0.6409
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - MAP@50: 0.6447
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - MAP@100: 0.6452
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - MAP@200: 0.6453
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - Recall@10: 0.8453
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - Recall@50: 0.9002
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - Recall@100: 0.9206
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - Recall@200: 0.9450
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 22:00:03,594][beir.retrieval.evaluation][INFO] - P@10: 0.0933
+[2026-07-21 22:00:03,595][beir.retrieval.evaluation][INFO] - P@50: 0.0203
+[2026-07-21 22:00:03,595][beir.retrieval.evaluation][INFO] - P@100: 0.0105
+[2026-07-21 22:00:03,595][beir.retrieval.evaluation][INFO] - P@200: 0.0054
+[2026-07-21 22:00:03,595][enrich_query_and_retrieve][INFO] - Results (doc enrich + query expand):
+[2026-07-21 22:00:03,595][enrich_query_and_retrieve][INFO] -   k=10  NDCG=0.6943  Recall=0.8453
+[2026-07-21 22:00:03,595][enrich_query_and_retrieve][INFO] -   k=50  NDCG=0.7080  Recall=0.9002
+[2026-07-21 22:00:03,595][enrich_query_and_retrieve][INFO] -   k=100  NDCG=0.7116  Recall=0.9206
+[2026-07-21 22:00:03,595][enrich_query_and_retrieve][INFO] -   k=200  NDCG=0.7150  Recall=0.9450
+[2026-07-21 22:00:03,598][enrich_query_and_retrieve][INFO] - Coverage: 300/300 enriched, 0 failed
+[2026-07-21 22:00:03,600][enrich_query_and_retrieve][INFO] - New best: query-enrich-1784671048 (Recall@10=0.8453, prev=0.0000)
+[2026-07-21 22:00:03,600][enrich_query_and_retrieve][INFO] - Done → ./experiments/scifact/runs/query-enrich/query-enrich-1784671048
+[2026-07-21 22:00:03,606][__main__][INFO] - === scifact / rerank (node 0/1) ===
+[2026-07-21 22:00:03,626][llm_reranking][INFO] - Prompt: configs/rerank/prompts/relevance_v02.txt
+[2026-07-21 22:00:03,753][llm_reranking][INFO] - Loaded 300 queries, top-200 candidates each
+[2026-07-21 22:00:03,773][llm_reranking][INFO] - Run dir: ./experiments/scifact/runs/rerank/rerank-1784671203
+[2026-07-21 22:00:03,774][llm_reranking][INFO] - Scoring 59623 (query, doc) pairs (concurrency=2048) …
+[2026-07-21 23:32:09,847][llm_reranking][INFO] - Scoring done in 5526.1s (11 pairs/s): 155 scored, 0 parse errors, 59468 llm errors
+[2026-07-21 23:32:09,871][beir.retrieval.evaluation][INFO] - For evaluation, we ignore identical query and document ids (default), please explicitly set ``ignore_identical_ids=False`` to ignore this.
+[2026-07-21 23:32:09,890][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 23:32:09,890][beir.retrieval.evaluation][INFO] - NDCG@10: 0.6943
+[2026-07-21 23:32:09,890][beir.retrieval.evaluation][INFO] - NDCG@50: 0.7080
+[2026-07-21 23:32:09,890][beir.retrieval.evaluation][INFO] - NDCG@100: 0.7116
+[2026-07-21 23:32:09,890][beir.retrieval.evaluation][INFO] - NDCG@200: 0.7150
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - MAP@10: 0.6409
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - MAP@50: 0.6447
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - MAP@100: 0.6452
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - MAP@200: 0.6453
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - Recall@10: 0.8453
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - Recall@50: 0.9002
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - Recall@100: 0.9206
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - Recall@200: 0.9450
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - 
+
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - P@10: 0.0933
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - P@50: 0.0203
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - P@100: 0.0105
+[2026-07-21 23:32:09,891][beir.retrieval.evaluation][INFO] - P@200: 0.0054
+[2026-07-21 23:32:09,891][llm_reranking][INFO] - Results (reranked):
+[2026-07-21 23:32:09,892][llm_reranking][INFO] -   k=10  NDCG=0.6943  Recall=0.8453
+[2026-07-21 23:32:09,892][llm_reranking][INFO] -   k=50  NDCG=0.7080  Recall=0.9002
+[2026-07-21 23:32:09,892][llm_reranking][INFO] -   k=100  NDCG=0.7116  Recall=0.9206
+[2026-07-21 23:32:09,892][llm_reranking][INFO] -   k=200  NDCG=0.7150  Recall=0.9450
+[2026-07-21 23:32:09,975][llm_reranking][INFO] - New best: rerank-1784671203 (Recall@10=0.8453, prev=0.0000)
+[2026-07-21 23:32:09,975][llm_reranking][INFO] - Done → ./experiments/scifact/runs/rerank/rerank-1784671203
+[2026-07-21 23:32:09,976][__main__][INFO] - === scifact done in 6054.1s (100.9 min) ===
+[2026-07-21 23:32:09,977][__main__][INFO] - === Timing summary ===
+[2026-07-21 23:32:09,977][__main__][INFO] -   scifact          6054.1s  (100.9 min)
+[2026-07-21 23:32:09,977][__main__][INFO] -   TOTAL            6054.1s  (100.9 min)
+[2026-07-21 23:32:09,978][__main__][INFO] - Summary saved to ./experiments/pipeline-runs/local-1784676729.json
+[2026-07-21 23:32:09,978][__main__][INFO] - Pipeline complete for ['scifact']

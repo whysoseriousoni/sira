@@ -8,11 +8,11 @@ Usage::
 
     source sandbox.sh
     python scripts/serve_llm.py
-    python scripts/serve_llm.py --config sglang/qwen3.6-35b-a3b-fp8:h100
-    python scripts/serve_llm.py --config sglang/qwen3.6-35b-a3b-fp8:h100 port=8080
+    python scripts/serve_llm.py --config sglang/qwen3.6-35b-a3b-fp8-h100
+    python scripts/serve_llm.py --config sglang/qwen3.6-35b-a3b-fp8-h100 port=8080
 
 ``--config`` selects a YAML profile under ``scripts/configs/`` (default:
-``sglang/qwen3.6-35b-a3b-fp8:h100``). Extra ``key=value`` args override
+``sglang/qwen3.6-35b-a3b-fp8-h100``). Extra ``key=value`` args override
 fields from the config.
 
 Outputs::
@@ -46,7 +46,7 @@ def _load_config(argv: list[str]) -> SGLangServerConfig:
     """Load config from YAML profile + CLI overrides."""
     import yaml
 
-    config_name = "sglang/qwen3.6-35b-a3b-fp8:h100"
+    config_name = "sglang/qwen3.6-35b-a3b-fp8-h100"
     overrides = []
 
     i = 0

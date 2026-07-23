@@ -1,0 +1,1 @@
+python -m sglang.launch_server --model-path Qwen/Qwen3-0.6B --port 30000 --host 0.0.0.0 --tp 1 --dp 1 --mem-fraction-static 0.85 --context-length 32768 --chunked-prefill-size 8192 --schedule-policy lpm --log-level info --kv-cache-dtype auto --max-running-requests 512 --cuda-graph-max-bs 1024 --skip-server-warmup --trust-remote-code 
